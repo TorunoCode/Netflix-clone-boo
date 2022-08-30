@@ -1,0 +1,2675 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="adaptive_html" lang="LV">
+<head>
+<meta charset="UTF-8">
+<meta name="globalsign-domain-verification" content="WVoCXGP9WWz7ZO3hqGZASmZCYQ2jhO7WxIRwsepEgV" />
+<meta name="theme-color" content="#2b3d52">
+<meta name="facebook-domain-verification" content="nikti9bu56gz5oi6d126k5bloj0772" />
+
+<title>Ērta, droša failu glabāšana vai apmaiņa. Bezmaksas konts</title>
+<meta name="keywords" content="ftp file upload, file hosting, android, file cloud, cloud storage, file sharing, failu glabāšana, bilžu hostings, bilžu apmaiņa, failu apmaiņa, failu serveris, failu koplietošana, failu rezerves kopijas, failu backup, file hosting, file sharing, file exchange, file storage, image hosting, file upload, files, file share, web file hosting, internet file storage, image upload, free upload, photo sharing, online photo gallery, photos online, data backup, online backup" />
+<meta property="og:title" content="Ērta, droša failu glabāšana vai apmaiņa. Bezmaksas konts" />
+<meta property="og:description" content="Ērta datu glabāšanas platforma. Glabā, dalies vai pārdod bildes, mūziku, video un citus failus. Bezmaksas konts un lielu failu atbalsts." />
+<meta name="description" content="Ērta datu glabāšanas platforma. Glabā, dalies vai pārdod bildes, mūziku, video un citus failus. Bezmaksas konts un lielu failu atbalsts." />
+<meta property="og:image" content="https://failiem.lv/images/failiem.lv-fb.png?v=3" />
+<meta property="og:image:secure_url" content="https://failiem.lv/images/failiem.lv-fb.png?v=3" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://failiem.lv/images/failiem.lv-fb.png?v=3" />
+<meta property="twitter:image" content="https://failiem.lv/images/failiem.lv-fb.png?v=3" />
+<meta property="og:url" content="https://failiem.lv" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Failiem.lv" />
+<meta property="fb:app_id" content="449566538440301" />
+<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="https://files.fm" crossorigin>
+<link rel="preconnect" href="https://s7.addthis.com" crossorigin>
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+<link rel="preconnect" href="https://www.googleadservices.com" crossorigin>
+<link rel="preconnect" href="https://googleads.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="https://stats.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="https://www.google.com" crossorigin>
+<link rel="preconnect" href="https://www.google.lv" crossorigin>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1970559-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  
+    
+  gtag('js', new Date());
+  
+    gtag('config', 'UA-1970559-10');
+
+    gtag('config', 'UA-1970559-6');
+  
+    
+    gtag('config', 'AW-1043031755');
+  
+</script>
+<script src="/js/google_conversion.js?v=4"></script>
+<base href="https://fv2-5.failiem.lv/" />
+<meta name="verify-v1" content="4MHpv5CF+UNp34oMIZOxnVwoSslLpr+5GPkxFp94Wq8=" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css?v=1429376391" /><link rel="stylesheet" type="text/css" media="all" href="/css/global.css?v=1656594795" /><link rel="stylesheet" type="text/css" media="all" href="/css/header.css?v=1650404936" /><link rel="stylesheet" type="text/css" media="all" href="/css/messages/messages.css?v=1576094031" /><link rel="stylesheet" type="text/css" media="all" href="/ts/chat/dist/chat.css?v=1582713860" />
+<script src="/js/jquery-1.12.2.min.js?v=1458758350"></script>
+<script src="/js/jquery-migrate-1.3.0.js?v=1459008995"></script>
+<script src="/js/JSON/json2.js?v=1429376364"></script>
+<script src="/js/JSON/cycle.js?v=1429376364"></script> <script src="/error_handler_client?v=4"></script>
+<link rel="icon" type="image/png" href="/images/cloud.png" />
+<script>
+
+				var DOMAIN_NAME = 'failiem.lv';
+				
+				var HTTP_HOST = 'fv2-5.failiem.lv';
+
+				// capitalize first letter of domain
+                DOMAIN_NAME = DOMAIN_NAME.charAt(0).toUpperCase() + DOMAIN_NAME.slice(1);
+
+				var lang_code = 'LV';
+
+				var DOCUMENT_IS_LOADED = false;
+
+				var MMVD = false;
+				var STDT = new Date().getTime();
+
+				var WEB_ROOT_PATH = '';
+
+				var FB_APP_ID = '449566538440301';
+
+				var strTranslation_LinkCopied = 'Saite ir iekopēta atmiņā';
+
+				var strSellFilesCurrency = 'EUR';
+
+				$(function(){
+
+					DOCUMENT_IS_LOADED=true
+
+                    var intScrollTop = $('html').scrollTop();
+					intScrollTop = Math.max(intScrollTop, $('body').scrollTop());
+					
+                    if ( intScrollTop > 0 )
+                    {
+                        $('body').addClass('scrolled');
+                    }
+
+                    
+                    $(window).on('scroll', function (){
+                        
+                        var intScrollTop = $('html').scrollTop();
+                        intScrollTop = Math.max(intScrollTop, $('body').scrollTop());
+                        
+                        if ( intScrollTop > 0 )
+                        {
+                            $('body').addClass('scrolled');
+                        }
+                        else
+                        {
+                            $('body').removeClass('scrolled');
+                            checkMenuItems();
+                        }
+                    });
+
+					$( document ).mousemove( function( event )
+					{
+						if ( ! MMVD )
+						{
+							if ( ( ( new Date().getTime() ) - STDT ) > 1000 )
+							{
+								MMVD = true;
+							}
+						}
+					});
+				});
+
+
+				function changeLanguage(strLangCode, strTitle)
+				{
+					var strUrl = '';
+					switch (strLangCode)
+					{
+						case 'lv':
+                            strUrl = 'https://failiem.lv/u/private';
+                            break;
+						case 'en':
+                            strUrl = 'https://files.fm/u/private';
+                            break;
+						case 'ru':
+                            strUrl = 'https://ru.files.fm/u/private';
+                            break;
+						case 'ua':
+                            strUrl = 'https://ua.files.fm/u/private';
+                            break;                            
+						case 'de':
+                            strUrl = 'https://de.files.fm/u/private';
+                            break;
+						case 'fi':
+                            strUrl = 'https://fi.files.fm/u/private';
+                            break;
+                        case 'es':
+                            strUrl = 'https://es.files.fm/u/private';
+                            break;
+                        case 'ko':
+                            strUrl = 'https://ko.files.fm/u/private';
+                            break;
+					}
+					window.location = strUrl + WEB_ROOT_PATH;// + '?lng='+strLangCode;
+					$('.language_dropdown .activator SPAN').each(function (){
+						var img = $('IMG', this).clone();
+						$(this).html(strTitle + ' ').append(img);
+					});
+					hidePopups();
+				}
+
+
+				function gaev(strCategory, strAction, strLabel, strValue) {
+
+					if (typeof gtag != 'undefined') {
+						// old ga.js
+						//_gaq.push(['_trackEvent', strCategory, strAction, strLabel]);
+						
+						// Send the event to the gtag.js Google Analytics property
+						// with tracking ID GA_MEASUREMENT_ID.
+						gtag('event', 'Events', {
+						  'send_to': 'UA-1970559-10',
+						  'event_category': strCategory,
+						  'event_action': 	strAction,
+						  'event_label': 	strLabel,
+						  'value':			strValue
+						});
+						
+						/*gtag('event', 'strEveryEventTest', {
+						  'send_to': 'UA-1970559-10',
+						  'event_category': 'EveryEvent',
+						  'event_action': 	'TestAction',
+						  'event_label': 	'TestLabel'
+						});*/
+
+					};
+				}
+				
+				function logClick(strButton)
+				{
+										if (typeof gtag != 'undefined')
+					{
+						//_gaq.push(['_trackEvent', 'ActionLine', strButton, 'List']);
+
+						gtag('event', 'Clicks', {
+						  'send_to': 'UA-1970559-10',
+						  'event_category': 'ActionLine',
+						  'event_action': 	strButton,
+						  'event_label': 	'List'
+						});
+					};
+									}
+
+
+				function printAdwordsConversion(strIframeName) {
+
+					var  iframe = document.createElement('iframe');
+					iframe.style.width = '0px';
+					iframe.style.height = '0px';
+					document.body.appendChild(iframe);
+
+					iframe.src = 'https://fv2-5.failiem.lv/server_scripts/google_adwords/'+ strIframeName +'.php';
+				}
+
+			</script>
+<script>
+				var IS_MOBILE = false;
+			</script>
+
+<!--[if lt IE 9]>
+				<script type="text/javascript" src="./js/html5.js"></script>
+				<script type="text/javascript" src="./js/css3-mediaqueries.js"></script>
+			<![endif]-->
+<script>  	var tb_lang = new Object();  	tb_lang["close"] = "Aizvērt";  	tb_lang["or_esc_key"] = "vai spied Esc taustiņu";  </script>
+<script>
+
+				Math._round = function(number, precision)
+				{
+					precision = Math.abs(parseInt(precision)) || 0;
+					var coefficient = Math.pow(10, precision);
+					return Math.round(number*coefficient)/coefficient;
+				}
+
+				function file_size_format (filesize, intPrecision) {
+				    
+				    if (typeof(intPrecision) == 'undefined' || intPrecision==null)
+				        intPrecision = 2;
+				    
+					if (filesize >= 1073741824)
+					{
+						filesize = Math._round(filesize / 1073741824, 2).toFixed(intPrecision) + '&nbsp;GB';
+					}
+					else
+					{
+						if (filesize >= 1048576)
+						{
+							filesize = Math._round(filesize / 1048576, 2).toFixed(intPrecision) + '&nbsp;MB';
+						}
+						else
+						{
+							if (filesize >= 1024)
+							{
+								filesize = Math._round(filesize / 1024, 0).toFixed(intPrecision) + '&nbsp;KB';
+							}
+							else
+							{
+								filesize = filesize + '&nbsp;B';
+							};
+						};
+					};
+					return filesize;
+				};
+
+			</script>
+<script>
+    /**
+     * @param strEmails - one or more emails delimited with ","
+     * @param bolIsSingleEmail - is strEmails only one email
+     */
+    function EmailValidator(strEmails, bolIsSingleEmail)
+    {
+        this.state = EmailValidator.states.READY;
+        this.strSuggestedEmails = "";
+        this.strEmails = strEmails.trim();
+        this.strNoMxEmails = "";
+        this.strInputID = "";
+        this.bolIsSingleEmail = bolIsSingleEmail;
+
+        // set default invalid cb
+        this.setOnInvalidCB(function(){});
+        this.strErrorClass = "has-error";
+    }
+    
+    EmailValidator.regexTest = function(email) 
+    {
+        var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+        
+        return re.test( email )
+            // disallow single quotes
+            && email.indexOf( "'" ) === -1;
+    };
+    
+    //<editor-fold desc="Setters">
+    /**
+     * this.onValidCB and this.onInvalidCB and this.setOnSuggestionCB execution order:
+     *  1. remove this.strErrorClass from this.strInputID
+     *  2. show or hide modal - only for onInvalid and onValid
+     *  3. run callback
+     */
+    EmailValidator.prototype.setOnValidCB = function (onValidCB)
+    {
+        this.onValidCB = applyTo(this, function ()
+        {
+            if (this.strModalID && $('#' + this.strModalID).css('opacity') == 0)
+            {
+                showModal(this.strModalID);
+            }
+            this.removeClassFromInput();
+            onValidCB();
+        });
+
+        return this;
+    };
+    EmailValidator.prototype.setOnInvalidCB = function (onInvalidCB)
+    {
+        this.onInvalidCB = applyTo(this, function ( strInvalidEmails)
+        {
+            if( typeof strInvalidEmails === 'undefined' )
+            {
+                strInvalidEmails =  '';
+            }
+            
+            if (this.strModalID && $('#' + this.strModalID).css('opacity') == 0)
+            {
+                showModal(this.strModalID);
+            }
+            this.addErrorClassToInput();
+            onInvalidCB(strInvalidEmails);
+        });
+
+        return this;
+    };
+    EmailValidator.prototype.setOnSuggestionCB = function (onSuggestionCB)
+    {
+        this.revalidate = function ()
+        {
+            this.addErrorClassToInput();
+            onSuggestionCB();
+        };
+        return this;
+    };
+    
+    EmailValidator.prototype.setModalID = function (strModalID)
+    {
+        this.strModalID = strModalID;
+        return this;
+    };
+
+    EmailValidator.prototype.setInputID = function (strInputID)
+    {
+        this.strInputID = strInputID;
+        return this;
+    };
+
+    EmailValidator.prototype.setErrorClass = function (strErrorClass)
+    {
+        this.strErrorClass = strErrorClass;
+        return this;
+    };
+    //</editor-fold>
+    
+    EmailValidator.prototype.onTooManyEmails = function () 
+    {
+        fError("Vienā reizē nav atļauts nosūtīt vairāk par 5 e-pastiem.", "", "OK", applyTo(this, this.onInvalidCB));
+    };
+
+    /**
+     * adds this.strErrorClass to element with ID this.strInputID
+     */
+    EmailValidator.prototype.addErrorClassToInput = function ()
+    {
+        if (this.strInputID)
+        {
+            $("#" + this.strInputID).addClass(this.strErrorClass);
+        }
+    };
+
+    /**
+     * removes this.strErrorClass from element with ID this.strInputID
+     */
+    EmailValidator.prototype.removeClassFromInput = function ()
+    {
+        if (this.strInputID)
+        {
+            $("#" + this.strInputID).removeClass(this.strErrorClass);
+        }
+    };
+
+    EmailValidator.prototype.run = function ()
+    {
+        if(this.strEmails === "") 
+        {
+            this.state = EmailValidator.states.INVALID;
+            this.onInvalidCB();
+            return;
+        }
+        
+        // onValid, onInvalid and strEmails are necessary!
+        if (!this.onValidCB || !this.onInvalidCB)
+        {
+            throw new Error("EmailValidator is missing essential data!");
+        }
+        
+        var emails;
+
+        // check if not over allowed email count
+        if( !this.bolIsSingleEmail )
+        {
+            emails = this.strEmails.split(",");
+            if( emails.length > 50 ) {
+                this.state = EmailValidator.states.TOO_MANY_EMAILS;
+                this.onTooManyEmails();
+                return;
+            }
+        }
+        else
+        {
+            emails = [ this.strEmails ];
+        }
+
+        // test emails against email regex before posting them
+        for (var i in emails)
+        {
+            if ( emails.hasOwnProperty(i) && !EmailValidator.regexTest( emails[i].trim() ) )
+            {
+                this.state = EmailValidator.states.INVALID;
+                this.onInvalidCB( emails[i].trim() );
+                return;
+            }
+        }
+
+        this.state = EmailValidator.states.RUNNING;
+
+        $.post('/chkMail.php', {'q': this.strEmails}, applyTo(this, this.onResponse));
+    };
+
+    EmailValidator.prototype.onResponse = function (data)
+    {
+        var arrReturn = JSON.parse(data);
+
+        if (arrReturn['result'] === 0)
+        {
+            this.state = EmailValidator.states.VALID;
+            this.onValidCB(this);
+        }
+        else if(arrReturn['result'] === EmailValidator.states.INVALID) 
+        {
+            this.state = EmailValidator.states.INVALID;
+            this.onInvalidCB();
+        }
+        else if (arrReturn['result'] === 2)
+        {
+            this.strSuggestedEmails = arrReturn['suggest'];
+
+            if (arrReturn['no_mx'])
+            {
+                this.strNoMxEmails = arrReturn['no_mx'];
+                this.state = EmailValidator.states.MISSING_MX_RECORDS;
+            }
+            else
+            {
+                this.state = EmailValidator.states.POSSIBLE_TYPO;
+            }
+
+            // this calls onSuggestionCB
+            this.revalidate();
+        }
+        else if (arrReturn['result'] === 4)
+        {
+            this.state = EmailValidator.states.TOO_MANY_EMAILS;
+            this.onTooManyEmails();
+        }
+    };
+
+    EmailValidator.prototype.revalidate = function ()
+    {
+        // add typo suggestions and emails with no mx records to string
+        var strMsg = '';
+        if (this.strSuggestedEmails !== '')
+        {
+            strMsg += "Vai J\u016bs dom\u0101j\u0101t:";
+            strMsg += " " + this.strSuggestedEmails + "?\n";
+        }
+        if (this.strNoMxEmails !== '')
+        {
+            if(this.bolIsSingleEmail)
+            {
+                strMsg += "Iesp\u0113jams, ka ievad\u012bt\u0101 e-pasta adrese nav pareiza:"            }
+            else 
+            {
+                strMsg += "Iesp\u0113jams, \u0161\u012bs adreses nav pareizas:"            }
+            
+            strMsg += " " + this.strNoMxEmails + ".\n";
+        }
+
+        if(this.bolIsSingleEmail)
+        {
+            strMsg += "L\u016bdzu p\u0101rbaudiet ievad\u012bt\u0101 e-pasta pareiz\u012bbu! Ja ievad\u012btais e-pasts ir pareizs, spiediet OK.";
+        }
+        else 
+        {
+            strMsg += "L\u016bdzu p\u0101rbaudiet ievad\u012bto e-pastu pareiz\u012bbu! Ja visi ievad\u012btie e-pasti ir pareizi, spiediet OK.";
+        }
+
+        this.addErrorClassToInput();
+
+        // hide the original modal to avoid overlapping
+        if (this.strModalID && $('#'+this.strModalID).css('opacity') == 1)
+        {
+            hideModal(this.strModalID);
+        }
+
+        fConfirm(
+            strMsg,
+            "Iesp\u0113jama k\u013c\u016bda",
+            "OK",
+            "Atcelt",
+            applyTo(this, function ( bolResult)
+            {
+                // execute onInvalid only if user declines
+                if (bolResult === false)
+                {
+                    this.state = EmailValidator.states.INVALID;
+                    this.onInvalidCB();
+                }
+            }),
+            applyTo(this, function ()
+            {
+                this.state = EmailValidator.states.ACCEPTED_TYPO;
+                this.onValidCB();
+            }, this)
+        );
+    };
+
+    EmailValidator.prototype.isSubmittable = function ()
+    {
+        return [EmailValidator.states.VALID, EmailValidator.states.ACCEPTED_TYPO].indexOf(this.state) !== -1;
+    };
+
+    EmailValidator.states = {
+        READY: -2,              // initial state
+        RUNNING: -1,            // request has started and server has not responded yet
+
+        // => onValidCB
+        VALID: 0,
+
+        // => onInvalidCB
+        INVALID: 1,
+
+        // => revalidate => onSuggestionCB
+        POSSIBLE_TYPO: 2,       // there are typos in the submitted emails
+        MISSING_MX_RECORDS: 3,  // some emails have missing mx records
+        TOO_MANY_EMAILS: 4,     // too many emails are submitted
+
+        // => revalidate => onSuggestionCB (clicked OK) => onValid 
+        ACCEPTED_TYPO: 5        // typo was spotted but user dismissed it
+    };
+    
+    // the function is defined in functions.js, but because this script is included in bergafoto, lets check to make sure.
+    if ( typeof applyTo !== 'function' )
+    {
+        /**
+         * Magic function that makes vanilla JS objects usable
+         *  - execute fn in the context of $this with passed parameters
+         *  - you can also pass parameters to the fn that is returned, they will be added to the fn call
+         * @param $this - Object scope
+         * @param fn - Object method to execute
+         * @param var1 - first parameter to be passed to fn
+         * @returns {Function}
+         */
+        window.applyTo = function( $this, fn, var1 )
+        {
+            if ( !$this )
+            {
+                throw new Error( "Invalid usage of closure function, scope must be defined." );
+            }
+        
+            if ( !fn )
+            {
+                throw new Error( "Invalid usage of closure function, fn must be defined." );
+            }
+        
+            var finalArgs = [];
+        
+            // skip first 3 arguments (callee, $this, fn)
+            for ( var i = 2; i < arguments.length; ++i )
+            {
+                // add to list of args
+                finalArgs.push( arguments[ i ] );
+            }
+        
+            return function ()
+            {
+                // add all arguments
+                for ( var i = 0; i < arguments.length; ++i )
+                {
+                    finalArgs.push( arguments[ i ] );
+                }
+            
+                // first arguments will be the ones passed to closure, then the ones passed to this function
+                return fn.apply( $this, finalArgs );
+            };
+        }
+    }
+</script>
+<link rel="stylesheet" type="text/css" media="all" href="/bootstrap/css/dropdown.css?v=1536455916" /><link rel="stylesheet" type="text/css" media="all" href="/css/global_facelift.css?v=1660654579" /><link rel="stylesheet" type="text/css" media="all" href="/css/inputs.css?v=1638266235" /><link rel="stylesheet" type="text/css" media="all" href="/js/jquery-ui-1.11.4.custom/jquery-ui.min.css?v=1458758345" /><link rel="stylesheet" type="text/css" media="all" href="/css/thickbox.css?v=1429376391" /><link rel="stylesheet" type="text/css" media="all" href="/css/modal.css?v=1571147423" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-new/css/font-awesome.min.css?v=1563280607" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-pro/css/light.min.css?v=1563280607" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-pro/css/brands.min.css?v=1563280607" /><link rel="stylesheet" type="text/css" media="all" href="/css/font-awesome-pro/css/fontawesome.min.css?v=1563280607" /><link rel="stylesheet" type="text/css" media="all" href="/css/alert.css?v=1571153133" /><link rel="stylesheet" type="text/css" media="all" href="/js/FlexSlider/flexslider.css?v=1429376370" /><link rel="stylesheet" type="text/css" media="all" href="/css/info_slider.css?v=1455794632" />
+<script src="/js/jquery.cookie.js?v=1429376362"></script>
+<script src="/js/jquery-ui-1.11.4.custom/jquery-ui.min.js?v=1458758349"></script>
+<script src="/js/global.js?v=1657884646"></script>
+<script src="/js/info_tooltips.js?v=1557302526"></script>
+<script src="/js/share_functions.js?v=1486841181"></script>
+<script src="/js/jquery-ui-1.11.4.custom/jquery-ui.min.js?v=1458758349"></script>
+<script src="/js/ajax2_norm.js?v=1429376364"></script>
+<script src="/js/dom_table.js?v=1429376366"></script>
+<script src="/js/event.js?v=1429376370"></script>
+<script src="/js/functions.js?v=1598421347"></script>
+<script src="/js/thickbox.js?v=1429376368"></script>
+<script src="/js/modal.js?v=1616084725"></script>
+<script src="/js/alert.js?v=1487078178"></script>
+<script src="/js/FlexSlider/jquery.flexslider.js?v=1429376370"></script><link rel="stylesheet" type="text/css" media="all" href="/css/stripe_payment_form.css?v=1629989673" />
+<script src="/js/stripe_payment_form.js?v=1657550775"></script>
+<script>
+
+	var PHPSESSID = '9b932b161415c5541b44f81760891e017f12d2e9';
+	var STRIPE_PUBLIC_KEY = 'pk_live_qdaFEN4KBX40UvEYnwlKCIX8';
+	var STRIPE_LOCALE = 'lv';
+
+	var arrStripePaymentFormErrorMsg = {
+		'FinishOrder' : 'Pasūtījuma apstrādes laikā notika kļūda. Lūdzu, sazinieties ar support@failiem.lv!' ,
+		'Processing' : 'Maksājuma apstrādes laikā notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!' ,
+		'InvalidData' : 'Lūdzu, ievadiet derīgus maksājumu kartes datus!' ,
+		'BankDeclined' : 'Maksājuma apstrādes laikā notika kļūda - Jūsu banka atteica maksājumu. Lūdzu, pārbaudiet, vai Jūsu bankas kontā ir pietiekami daudz līdzekļu; vai ar Jūsu maksājumu karti ir atļauts veikt maksājumus Internetā. Vai sazinieties ar savu banku, vai arī izmantojiet citu maksājumu karti.' ,
+		'NotEnoughFunds' : 'Jūsu bankas kontā nav pietiekami daudz līdzekļu. Lūdzu, papildiniet kontu vai izmantojiet citu maksājumu karti!' ,
+		'InvalidCVV' : 'Lūdzu, pārbaudiet un ievadiet derīgu maksājumu kartes CVV kodu!'
+	};
+
+</script> </head>
+<body class="lang_lv use_vh full-width show_header_flag">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9HRMM7"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZNTW54" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>
+	$( window ).bind( 'load', function()
+	{
+		if	( window.location.search === '?coupon' || window.location.search === "?kupons" ) 
+		{
+			showCreateAccount();
+            adaptFormForCoupon();
+        }
+	} );
+</script>
+<div id="container" class="failiemlv">
+<noscript>
+				<table class="alert_container alert_container_danger" style="display: block">
+					<tr>
+						<td>
+							<i class="fa fa-exclamation-circle"></i>
+						</td>
+						<td>
+							<div class="alert_main_text">
+								Tava pārlūkprogramma neatbalsta JavaScript. Lai izmantotu šo lapu, ieslēdz JavaScript atbalstu vai arī izmanto citu pārlūkprogrammu.							</div>
+						</td>
+					</tr>
+				</table>
+			</noscript>
+<header id="header" class="overflow-hidden  ">
+<nav>
+
+<div id="header_flag">
+<div id="header_flag_1"></div>
+<div id="header_flag_2"></div>
+</div>
+<div class="container">
+<div class="nav-left">
+<button data-skip-hide-popups="1" id="navbar-toggler" class="
+                		navbar-toggler 
+                		collapsed
+						user-has-not-clicked-navbar-toggler            		" type="button" data-toggle="collapse" data-target="#mega-menu" aria-controls="mega-menu" aria-expanded="false" aria-label="Toggle menu" onclick="$( this ).toggleClass( 'clicked' ); navbarTogglerClicked(); gaev('HeaderClick', 'Hamburger-menu', '');" onmouseover="navbarTogglerClicked()"></button>
+<script type="text/javascript">
+                    function navbarTogglerClicked()
+                    {
+                        $( '#navbar-toggler' ).removeClass( 'user-has-not-clicked-navbar-toggler' );
+                        document.cookie = 'user-has-clicked-navbar-toggler=1; max-age=' + (365*24*60*60) + ' ; path=/ ; domain=failiem.lv';
+                        document.cookie = 'user-has-clicked-navbar-toggler=1; max-age=' + (365*24*60*60) + ' ; path=/ ; domain=.failiem.lv';
+                        document.cookie = 'user-has-clicked-navbar-toggler=1; max-age=' + (365*24*60*60) + ' ; path=/ ; domain=files.fm';
+                        document.cookie = 'user-has-clicked-navbar-toggler=1; max-age=' + (365*24*60*60) + ' ; path=/ ; domain=.files.fm';
+                    }
+                </script>
+<a class="navbar-brand menu-link" onclick="gaev('HeaderClick', 'Logo', '');" href="/">
+<img class="logo" alt="Failiem.lv" src="/images/logo/failiem_logo_full.svg?v=4" /> </a>
+</div>
+<div class="navbar" id="main-nav">
+<ul>
+<li class="nav-button" data-priority="2">
+<a href="/" onclick="gaev('HeaderClick', 'Start_upload', ''); hidePopups();" class="nav-link">
+Uzkopēt failus </a>
+</li>
+<li class="nav-button" data-priority="2">
+<a href="/business" class="nav-link">
+Biznesam </a>
+</li>
+<li class="nav-right nav-button" data-priority="2">
+<a href="/storage-plans" onclick="gaev('HeaderClick', 'Storage_plans_and_prices', '');" class="nav-link" style="background: white;">
+Cenas </a>
+</li>
+<li class="nav-right" data-priority="1">
+<div>
+<a href="javascript:void(0);" onclick="gaev('HeaderClick', 'Sign_up', ''); showCreateAccount(); return false;" id="signup" title="Reģistrējies">Reģistrēties</a>
+</div>
+</li>
+<li class="nav-right" data-priority="0">
+<div id="login">
+<a href="javascript:void(0);" onclick="gaev('HeaderClick', 'Log_in', ''); showSignIn(); return false;" id="login_button">
+<span id="login_button_text">Ieiet</span>
+<img id="login_button_icon_dark" src="/images/header/sign-in.svg" alt="Login to upload files for free" />
+</a>
+</div>
+</li>
+<li class="nav-right dropdown-menu-container" id="lang_switch" data-priority="1">
+<span class="dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="gaev('HeaderClick', 'Lang_switch', 'Text'); $( this ).parent().find( '.dropdown-menu.dropdown-menu-right' ).toggle()">
+<img id="lang_switch_icon_dark" src="/images/header/globe.svg?v=1"></img>
+</span>
+<div class="dropdown-menu dropdown-menu-right">
+<a class="dropdown-item" href="javascript:changeLanguage('en', 'EN');"><span>English</span></a>
+<a class="dropdown-item" href="javascript:changeLanguage('es', 'ES');"><span>Español</span></a>
+<a class="dropdown-item" href="javascript:changeLanguage('de', 'DE');"><span>Deutsch</span></a>
+<a class="dropdown-item" href="javascript:changeLanguage('fi', 'FI');"><span>Suomi</span></a>
+
+<a class="dropdown-item" href="javascript:changeLanguage('ru', 'РУ');"><span>Русский</span></a>
+<a class="dropdown-item" href="javascript:changeLanguage('ua', 'РУ');"><span>Українська</span></a>
+<a class="dropdown-item" href="javascript:changeLanguage('lv', 'LV');"><span>Latviešu</span></a>
+</div>
+</li>
+</ul>
+</div>
+<script>
+                function addAnonymousUploads()
+                {
+                    var addUploads = confirm('Vai piesaistīt Jūsu kontam augšupielādes, kas ir veiktas uz šī datora anonīmi?');
+                    if (addUploads == true)
+                    {
+                        $('.add_anonym_uplaods').val('1');
+                    }
+                }
+            </script>
+</div>
+<div id="mega-menu" class="collapse">
+<div class="container event_ignore_click">
+<div class="transparent"></div>
+<ul id="nav-functional"></ul>
+<div class="other-apps">
+<ul>
+<li class=" ">
+<a href="/sync-share" onclick="gaev('HeaderClick', 'SyncShare', '');">
+<img class="dark" src="/images/header/store.svg" alt="Store and sync files" /><img class="white" src="/images/header/store_white.svg" alt="Store and sync files" />Rīki failu glabāšanai un sinhronizēšanai </a>
+<div class="description">
+<h5>Failiem.lv Sync rīks palīdz droši koplietot failus starp cilvēkiem un iekārtām</h5>
+<p>Droša dokumentu pārvaldība un attālināta piekļuve</p>
+<a href="/sync-share" onclick="gaev('HeaderClick', 'SyncShare', '');">Uzzini vairāk</a>
+</div>
+</li>
+<li class=" ">
+<a href="/sell-files" onclick="gaev('HeaderClick', 'SellFiles', '');">
+<img class="dark" src="/images/header/sell.svg" alt="Sell files" /><img class="white" src="/images/header/sell_white.svg" alt="Sell files" />Rīki satura pārdošanai </a>
+<div class="description">
+<h5>Izveido digitālā satura veikalu un sāc pelnīt</h5>
+<p>Ērti rīki failu pārdošanai un maksājumu saņemšanai</p>
+<a href="/sell-files" onclick="gaev('HeaderClick', 'SellFiles', '');">Uzzini vairāk</a>
+</div>
+</li>
+<li class=" ">
+<a href="/events" onclick="gaev('HeaderClick', 'SportEvents', '');">
+<img class="dark" src="/images/header/events.svg" alt="Sport events photo publishing" /><img class="white" src="/images/header/events_white.svg" alt="Sport events photo publishing" />Pasākumu satura publicēšanai </a>
+<div class="description">
+<h5>Pasākumu foto/video publicēšana ar satura analīzes iespēju</h5>
+<p>Publicē fotogrāfijas un dalībnieki varēs atrast tieši savas bildes</p>
+<a href="/events" onclick="gaev('HeaderClick', 'SportEvents', '');">Uzzini vairāk</a>
+</div>
+</li>
+
+<li class=" ">
+<a href="/servers" onclick="gaev('HeaderClick', 'ServerRental', '');">
+<img class="dark" src="/images/header/publish.svg" alt="Secure private servers" /><img class="white" src="/images/header/publish_white.svg" alt="Secure private servers" />Serveru noma </a>
+<div class="description">
+<h5>Windows/Linux privātu serveru noma biznesam</h5>
+<p>lai izvietotu web un citus programmatūras risinājumus</p>
+<a href="/servers" onclick="gaev('HeaderClick', 'ServerRental', '');">Uzzini vairāk</a>
+</div>
+</li>
+<li class=" ">
+<a href="/backup" onclick="gaev('HeaderClick', 'Backup', '');">
+<img class="dark" src="/images/header/backup.svg" alt="Backup solutions" /><img class="white" src="/images/header/backup_white.svg" alt="Backup solutions" />Rīks šifrētu backup veidošanai </a>
+<div class="description">
+<h5>Šifrētu failu rezerves kopiju risinājums datoriem un serveriem</h5>
+<p>Rezerves kopiju risinājums, kas ļauj veidot automātiskas rezerves kopijas ar spēcīgu AES-256 šifrēšanu</p>
+<a href="/backup" onclick="gaev('HeaderClick', 'Backup', '');">Uzzini vairāk</a>
+</div>
+</li>
+<li class=" ">
+<a href="/upload-form" onclick="gaev('HeaderClick', 'Filebox', '');">
+<img class="dark" src="/images/header/receive.svg" alt="File upload form" /><img class="white" src="/images/header/receive_white.svg" alt="File upload form" />Rīks datu saņemšanai </a>
+<div class="description">
+<h5>Failu ielādes forma mājaslapām</h5>
+<p>Saņemiet no klientiem foto, video un dokumentus jūsu mājas lapā ar ērtu un pielāgojamu formu</p>
+<a href="/upload-form" onclick="gaev('HeaderClick', 'Filebox', '');">Uzzini vairāk</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="overlay"></div>
+</div>
+<div id="navbar-css"></div>
+</nav>
+</header>
+<script src="/js/Captcha/Google/LazyGoogleReCaptchaV2.js"></script>
+<script>
+                objLazyGoogleReCaptchaV2.strLanguageKey = "lv";
+                objLazyGoogleReCaptchaV2.strSiteKey = "6LflqXQUAAAAAP2CM782IqIgjzooEt9soXTCwxX2";
+            </script>
+<link rel="stylesheet" type="text/css" media="all" href="/css/sign_in_form.css?v=26" />
+<div id="sign-in" class="modal-container" tabindex="-1" role="dialog" aria-labelledby="createaccount-header signin-header" aria-hidden="true" style="display:none">
+<div class="modal-inner">
+
+<div id="sign-in-header">
+<span id="signin-header" onclick="if( !$( '#signin-modal-content' ).is( ':visible' ) ) showSignIn(); return false;">
+Ieiet <img id="signin-header_icon_inactive" src="/images/signup_form/log_in.svg?v=2" alt="Login to upload files">
+<img id="signin-header_icon_active" src="/images/signup_form/log_in_blue.svg?v=2" alt="Login to upload files">
+</span>
+<span id="createaccount-header" onclick="if( !$('#createaccount-modal-content').is(':visible')) showCreateAccount(); return false;">
+Reģistrēties </span>
+<i id="sign-in-header_close" class="fal fa-times" onclick="hideModal('sign-in', true)"></i>
+</div>
+
+<div id="createaccount-referral-container" style="display:none">
+<span class="referrer-container">
+Tevi ielūdza lietotājs&nbsp;<span id="createaccount-referral-referrer"></span>&nbsp;izveidot kontu un saņemt 1GB </span>
+<hr />
+</div>
+<div id="createaccount-message-container">
+<table class="alert_container alert_container_danger">
+<tr>
+<td><i class="fa fa-exclamation-circle"></i></td>
+<td><div class="alert_main_text"></div></td>
+</tr>
+</table>
+</div>
+
+<div id="createaccount-modal-content" class="modal-content">
+<div class="info"></div>
+
+<div class="signin-modal-content-social">
+<div class="signin-modal-content-social-title">Izveido bezmaksas kontu ar:</div>
+<div class="signin-modal-content-social-buttons-container signin-modal-content-social-buttons-container-2-buttons">
+
+<div class="standard_button google_button social_login_button" onclick="checkSocialLogin('google');">
+<img src="/images/signup_form/login-google.svg?v=2" alt="Sign up with Google to upload files for free">
+<span>Google</span>
+</div>
+<div class="standard_button ms_button social_login_button" onclick="checkSocialLogin('microsoft');">
+<img src="/images/signup_form/login-microsoft.svg" alt="Sign up with Microsoft to upload files for free">
+<span>Microsoft</span>
+</div>
+<div class="justify_el"></div>
+</div>
+</div>
+
+<div class="or-delimiter">
+vai </div>
+
+<div id="createaccount-simple-container">
+<input id="createaccount-referral-hash" name="inviter_hash" type="hidden">
+<input id="createaccount-referral-user" name="inviter_user" type="hidden">
+<div id="register_coupon_code">
+<div class="input-label">
+<label for="register_coupon_code_input">Kupona kods</label>
+<input id="register_coupon_code_input" name="coupon_code" type="text" />
+</div>
+<div class="createaccount-input-container"></div>
+</div>
+<div class="no-coupon-link">
+<a href="" onclick="revertFormFromCoupon(); return false">Man nav kupona koda »</a>
+</div>
+<div class="input-label">
+<label for="createaccount_name">Vārds</label>
+<input id="createaccount_name" name="createaccount_name" type="text" autocomplete="off" />
+</div>
+<div class="input-label">
+<label for="createaccount_surname">Uzvārds</label>
+<input id="createaccount_surname" name="createaccount_surname" type="text" autocomplete="off" />
+</div>
+<div class="input-label">
+<label for="createaccount_email">E-pasts</label>
+<input id="createaccount_email" name="createaccount_email" type="email" autocomplete="off" onchange="createUsername(this.value);" />
+</div>
+<div class="input-label">
+<label for="createaccount_password">Parole</label>
+<input id="createaccount_password" name="createaccount_password" type="password" autocomplete="off">
+</div>
+<div class="justify_el"></div>
+
+
+<div id="your_public_profile_container">
+<div id="your_public_profile_label_text_before">
+Tavs profils:
+</div>
+<div id="your_public_profile_label">
+<span id="your_public_profile_label_text">
+Tavs profils:
+</span>
+<span id="your_public_profile_label_host">
+https://failiem.lv/ </span>
+</div>
+<div id="your_public_profile_field_input">
+<input id="createaccount_username" name="createaccount_username" type="text" autocomplete="off" placeholder="Lietotājvārds" onkeyup="usernameChanged();" />
+</div>
+</div>
+<div id="createaccount_coupon_info" onclick='showSignIn()'>
+Man jau ir reģistrēts Failiem.lv konts » </div>
+<div id="createaccount_error_msg" class="error_msg"></div>
+<div class="sign_in_captcha" id="createaccount_captcha">
+<div class="google-recaptcha-v2-container" id="24AF83F5-8DEE-1BAB-2272-2A722B50949D"></div> <script>
+                                function loadCreateAccountCaptcha()
+                                {
+                                    (function () {
+            var init = function (){
+                // Wait for include to load
+                if ( typeof(objLazyGoogleReCaptchaV2) !== "undefined" )
+                {
+                    objLazyGoogleReCaptchaV2.initInstance (
+                        "24AF83F5-8DEE-1BAB-2272-2A722B50949D",
+                        captchaCreateAccountLoaded,
+                        captchaCreateAccountSubmitted
+                    )
+                }
+                else
+                {
+                    setTimeout(init, 50);
+                }
+            };
+            init();
+        })();
+                                }
+                            </script>
+</div>
+<div class="sign_in_submit_bn" onclick="checkCreateAccountForm();">
+Veidot kontu <img src="/images/signup_form/sign_up.svg" alt="Sign up to upload files for free">
+</div>
+<div id="createaccount_info">
+Reģistrēti lietotāji var glabāt failus pastāvīgi un saņemt vairāk iespējas. Lietojot šo vietni, jūs piekrītiet noteikumiem. <a href="/storage-plans" target="_blank">Vairāk info »</a> </div>
+<div id="createaccount_info_ico">
+Reģistrēti lietotāji var glabāt un piekļūt failiem pastāvīgi, kā arī var tos publicēt savā profilā. <a href="/storage-plans" target="_blank">Vairāk info »</a> </div>
+
+<div id="createaccount_termsandcondtotions_ico">
+Izveidojot kontu, Jūs piekrītat <a href="/terms" target="blank">lietošanas noteikumiem »</a> </div>
+<input id="register_from_ico" type="hidden" name="from_ico" value="0" />
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+</div>
+
+</div>
+
+
+<div id="signin-modal-content" class="modal-content">
+<table id="signin-modal-content-error" class="alert_container alert_container_info">
+<tr>
+<td>
+<i class="fa fa-exclamation-circle"></i>
+</td>
+<td>
+<div class="alert_main_text"></div>
+</td>
+</tr>
+</table>
+
+<div class="signin-modal-content-social">
+<div class="signin-modal-content-social-title">Lūdzu, pierakstieties ar:</div>
+<div class="signin-modal-content-social-buttons-container">
+<div class="standard_button fb_button social_login_button" onclick="checkSocialLogin('facebook');">
+<img src="/images/signup_form/login-facebook.svg?v=2" alt="Login with Facebook to upload files for free">
+<span>Facebook</span>
+</div>
+<div class="standard_button google_button social_login_button" onclick="checkSocialLogin('google');">
+<img src="/images/signup_form/login-google.svg?v=2" alt="Login with Google to upload files for free">
+<span>Google</span>
+</div>
+<div class="standard_button ms_button social_login_button" onclick="checkSocialLogin('microsoft');">
+<img src="/images/signup_form/login-microsoft.svg" alt="Sign up with Microsoft to upload files for free">
+<span>Microsoft</span>
+</div>
+<div class="justify_el"></div>
+</div>
+</div>
+
+<div class="or-delimiter">
+vai </div>
+
+<div id="signin-modal-content-simple">
+<form onsubmit="checkSignInForm(); return false;" id="login_filesfm">
+<div id="signin_input_container">
+<div class="input-label l_coupon_code">
+<label for="l_coupon_code">Kupona kods</label>
+<input id="l_coupon_code" name="coupon_code" type="text" />
+</div>
+<div class="no-coupon-link">
+<a href="" onclick="revertFormFromCoupon(); return false">Man nav kupona koda »</a>
+</div>
+<div class="input-label">
+<label for="l_user">Lietotājvārds vai e-pasts</label>
+<input id="l_user" name="l_user" type="text" />
+</div>
+<div class="input-label">
+<label for="l_pass">Parole</label>
+<input id="l_pass" name="l_pass" type="password">
+</div>
+<div class="justify_el"></div>
+</div>
+<a id="signin-modal-forgot-link" href="" onclick="showForgotPassword(); return false">
+<span>Aizmirsi paroli?</span>
+</a>
+<div id="signin_coupon_info" onclick="showCreateAccount()">
+Man nav reģistrēts Failiem.lv konts » </div>
+<div id="signin_error_msg" class="error_msg"></div>
+<input type="submit" style="display: none;">
+<div class="sign_in_submit_bn" onclick="checkSignInForm()">
+Ieiet <img src="/images/signup_form/sign_up.svg" alt="Sign up">
+</div>
+</form>
+<div id="signin-modal-link-container">
+<a id="signin-modal-coupon-link" href="javascript:void(0)" onclick="adaptFormForCoupon()">
+<span>Izmantot kupona kodu</span>
+</a>
+</div>
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+</div>
+
+</div>
+
+
+<div id="forgotpassword-modal-content" class="modal-content">
+<form onsubmit="return false;">
+<div id="forgotpassword_text">
+Ievadiet savu e-pasta adresi, lai atiestatītu paroli. Pārbaudiet arī spam mapi. </div>
+<div class="input-label forgotpassword_email">
+<label for="forgotpassword_email">E-pasts</label>
+<input id="forgotpassword_email" type="text">
+</div>
+<div id="forgotpassword_error_msg" class="error_msg"></div>
+<div class="sign_in_submit_bn" onclick="checkForgotPasswordForm();">
+Nosūtīt epastu <img src="/images/signup_form/sign_up.svg" alt="Nosūtīt epastu">
+</div>
+</form>
+</div>
+
+
+<div id="addcookieuploads-modal-content" class="modal-content">
+<div id="addcookieuploads_info">
+Vai piesaistīt Jūsu kontam augšupielādes, kas ir veiktas uz šī datora anonīmi? </div>
+<div id="addcookieuploads_button_container">
+<div class="addcookieuploads_button" id="addcookieuploads_button_yes" onclick="setAddCookieUploads(true)">
+Jā </div>
+<div class="addcookieuploads_button" id="addcookieuploads_button_no" onclick="setAddCookieUploads(false)">
+Nē </div>
+</div>
+</div>
+
+
+<div id="createaccountsuccessmessage-modal-content" class="modal-content">
+<div id="createaccountsuccessmessage_info">
+<div>
+Paldies! Jums ir izveidots Failiem.lv lietotāja konts un uz e-pastu nosūtīti konta pieejas dati. </div>
+<div>
+Aizveriet šo formu, aizpildiet mapes informāciju un spiediet pogu "Saglabāt un nosūtīt adresi". </div>
+</div>
+<div id="createaccountsuccessmessage_button" onclick="hideModal('sign-in', true)">
+Aizvērt </div>
+</div>
+
+<div id="twofactor_authcode-modal-content" class="modal-content" style="display:none">
+<div id="twofactor_authcode_container">
+<div id="twofactor_error_msg" class="error_msg"></div>
+<div class="twofactor_code_required_message">
+Lai pieslēgtos, lūdzu, ievadiet savu divu faktoru autentifikācijas kodu, kurš tikko tika nosūtīts uz Jūsu kontam reģistrēto e-pasta adresi. </div>
+<input id="twofactorcode" name="twofactorcode" type="text" placeholder="Autentifikācijas kods" />
+<div class="sign_in_submit_bn" onclick="trySignIn( $('#twofactorcode').val() )">
+Ieiet <img src="/images/signup_form/sign_up.svg" alt="Ieiet">
+</div>
+<div id="twofactor-modal-link-container">
+<a id="twofactor-modal-goback-link" href="" onclick="bolPrevFinished_checkSignInForm = true; showSignIn(); return false">
+<span>Atpakaļ</span>
+</a>
+</div>
+</div>
+</div>
+
+<div style="display: none">
+<form id="login_facebook" method="get" action="/">
+<input type="hidden" name="fb_login" value="" />
+<input type="hidden" name="add_anonym_uplaods" class="add_anonym_uplaods" value="" />
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+<input type="hidden" name="inviter_user" value="" />
+<input type="hidden" name="inviter_hash" value="" />
+<input type="submit" class="standard_button" value="Ienākt ar Facebook kontu" style="width: 100%" />
+</form>
+<form id="login_google" method="get" action="/">
+<input type="hidden" name="google_login" value="" />
+<input type="hidden" name="add_anonym_uplaods" class="add_anonym_uplaods" value="" />
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+<input type="hidden" name="inviter_user" value="" />
+<input type="hidden" name="inviter_hash" value="" />
+<input type="submit" class="standard_button" value="Ienākt ar Google kontu" style="width: 100%" />
+</form>
+<form id="login_microsoft" method="get" action="/">
+<input type="hidden" name="microsoft_login" value="" />
+<input type="hidden" name="add_anonym_uplaods" class="add_anonym_uplaods" value="" />
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+<input type="hidden" name="inviter_user" value="" />
+<input type="hidden" name="inviter_hash" value="" />
+<input type="submit" class="standard_button" value="Ienākt ar Microsoft kontu" style="width: 100%" />
+</form>
+<form id="login_draugiem" method="get" action="/">
+<input type="hidden" name="draugiem_login" value="" />
+<input type="hidden" name="add_anonym_uplaods" class="add_anonym_uplaods" value="" />
+<input type="hidden" name="login_return_url" class="login_return_url" value="" />
+<input type="hidden" name="dont_redirect_after_login" class="dont_redirect_after_login" value="" />
+<input type="submit" class="standard_button" value="Ienākt ar Draugiem kontu" style="width: 100%" />
+</form>
+</div>
+
+<div id="sign-in_disable_form">
+<i class="fa fa-spinner fa-spin"></i>
+</div>
+</div>
+<div class="modal-close" id="sign-in_modal_close" data-dismiss="modal" data-close="Aizvērt"></div>
+</div>
+<script>
+
+	var bolRewriteUrlHash = true;
+	
+    var bolSigninCaptchaRequired = Boolean();
+    var bolSignupCaptchaRequired = Boolean(1);
+    
+    var strSinginCaptchaContainerID = 'signin_captcha';
+    var strSignupCaptchaContainerID = 'createaccount_captcha';
+    
+    
+	function showCreateAccount( bolICO )
+	{
+        if( typeof bolICO === 'undefined' )
+        {
+            // if switching forms, get bolICO from other form
+            bolICO = $( "#register_from_ico" ).val() > 0;
+        }
+        
+        $( '#signin-header' ).removeClass( 'active' );
+        $( '#createaccount-header' ).addClass( 'active' );
+
+		$( '#signin-modal-content' ).hide();
+		$( '#forgotpassword-modal-content' ).hide();
+		$( '#addcookieuploads-modal-content' ).hide();
+		$( '#createaccountsuccessmessage-modal-content' ).hide();
+
+		$('#createaccount-modal-content').show();
+		
+		if( bolICO )
+        {
+            $( "#business_account_chechbox_container" ).hide();
+            $( "#createaccount_info_ico" ).show();
+            $( "#createaccount_termsandcondtotions_ico" ).show( );
+            $( "#createaccount_termsandcondtotions" ).hide( );
+            $( "#createaccount_info" ).hide();
+            $( "#register_from_ico" ).val( 1 );
+        }
+        else
+        {
+            $( "#business_account_chechbox_container" ).show();
+            $( "#createaccount_termsandcondtotions" ).show( );
+            $( "#createaccount_termsandcondtotions_ico" ).hide( );
+            $( "#createaccount_info_ico" ).hide();
+            $( "#createaccount_info" ).show();
+            $( "#register_from_ico" ).val( 0 );
+        }
+
+		showModal( 'sign-in' );
+  
+		if ( bolSignupCaptchaRequired )
+            loadCreateAccountCaptcha();
+		
+		if ( bolRewriteUrlHash )
+		{
+			window.location.hash = 'sign_up';
+		}
+	}
+	
+	function setRegisterReferral( strInviter, hash, strInviteeEmail )
+    {
+        $( "#createaccount-referral-referrer" ).text( strInviter );
+        $( "#createaccount-referral-container" ).show();
+        
+        if ( strInviteeEmail )
+        {
+            $( "#createaccount_email" )
+                .val( strInviteeEmail )
+                .attr( 'disabled', 'true' );
+        }
+    
+        $("input[name='inviter_user']").val( strInviter );
+        $("input[name='inviter_hash']").val( hash );
+    }
+
+	function showSignIn( bolICO )
+	{
+	    if( typeof bolICO === 'undefined' )
+        {
+            // if switching forms, get bolICO from other form
+            bolICO = $( "#register_from_ico" ).val() > 0;
+        }
+
+        $( '#signin-header' ).addClass( 'active' );
+        $( '#createaccount-header' ).removeClass( 'active' );
+        
+	    		
+		$( '#createaccount-modal-content' ).hide();
+		$( '#forgotpassword-modal-content' ).hide();
+		$( '#addcookieuploads-modal-content' ).hide();
+		$( '#createaccountsuccessmessage-modal-content' ).hide();
+        $( '#twofactor_authcode-modal-content' ).hide();
+        
+        if ( bolICO )
+        {
+            $( "#register_from_ico" ).val( 1 );
+        }
+        else
+        {
+            $( "#register_from_ico" ).val( 0 );
+        }
+
+		$( '#signin-modal-content' ).show();
+
+		showModal( 'sign-in' );
+  
+		if ( bolSigninCaptchaRequired )
+            loadSignInCaptcha();
+		
+		if ( bolRewriteUrlHash )
+		{
+			window.location.hash = 'log_in';
+		}
+	}
+    
+    /*** Start: Captcha callbacks ***/
+    
+    function captchaCreateAccountLoaded( bolSuccess )
+    {
+        if ( ! bolSuccess )
+        {
+            addError(strSignupCaptchaContainerID, "createaccount_error_msg", "Notikusi kļūda! Lūdzu pārbaudiet savu interneta savienujumu un mēģiniet vēlāk. Ja problēma neatrisinās, lūdzu sazinieties ar support@failiem.lv");
+        }
+        else
+        {
+            removeError( strSignupCaptchaContainerID );
+            removeAllErrors( "createaccount_error_msg" );
+            $("#"+strSignupCaptchaContainerID).append('<input type="hidden" class="captcha_response" value="" />');
+        }
+    }
+    
+    function captchaCreateAccountSubmitted( strResponse )
+    {
+        removeError( strSignupCaptchaContainerID );
+        removeAllErrors( "createaccount_error_msg" );
+        $('#' + strSignupCaptchaContainerID + ' .captcha_response').val( strResponse );
+    }
+    
+    
+    function captchaSignInLoaded( bolSuccess )
+    {
+        if ( ! bolSuccess )
+        {
+            addError(strSinginCaptchaContainerID, "signin_error_msg", "Notikusi kļūda! Lūdzu pārbaudiet savu interneta savienujumu un mēģiniet vēlāk. Ja problēma neatrisinās, lūdzu sazinieties ar support@failiem.lv");
+        }
+        else
+        {
+            removeError( strSinginCaptchaContainerID );
+            removeAllErrors( "signin_error_msg" );
+            $("#"+strSinginCaptchaContainerID).append('<input type="hidden" class="captcha_response" value="" />');
+        }
+    }
+    function captchaSignInSubmitted( strResponse )
+    {
+        removeError( strSinginCaptchaContainerID );
+        removeAllErrors( "signin_error_msg" );
+        $('#' + strSinginCaptchaContainerID + ' .captcha_response').val( strResponse );
+    }
+    /*** End: Captcha callbacks ***/
+    
+    
+	function revertFormFromCoupon()
+    {
+	    $( '#sign-in' ).removeClass( 'coupun_form' );
+    }
+    
+    function adaptFormForCoupon()
+    {
+	    $( '#sign-in' ).addClass( 'coupun_form' );
+    }
+
+	function showForgotPassword( strEmail )
+	{
+	    if ( typeof strEmail != 'undefined' )
+	    {
+			$( '#sign-in-header' ).hide();
+			$( '#forgotpassword_email' ).val( strEmail );
+	    }
+
+		$( '#signin-header' ).insertBefore( $( '#createaccount-header' ) );
+		
+		$( '#createaccount-modal-content' ).hide();
+		$( '#signin-modal-content' ).hide();
+		$( '#addcookieuploads-modal-content' ).hide();
+		$( '#createaccountsuccessmessage-modal-content' ).hide();
+
+		$( '#forgotpassword-modal-content' ).show();
+
+		showModal( 'sign-in' );
+
+		if ( bolRewriteUrlHash )
+		{
+			window.location.hash = 'forgot_password';
+		}
+	}
+
+	function showAddCookieUploads()
+	{
+		$( '#createaccount-modal-content' ).hide();
+		$( '#forgotpassword-modal-content' ).hide();
+		$( '#signin-modal-content' ).hide();
+		$( '#createaccountsuccessmessage-modal-content' ).hide();
+
+		$( '#addcookieuploads-modal-content' ).show();
+
+		showModal( 'sign-in' );
+	}
+
+	function showCreateAccountSuccessMessage()
+	{
+		$( '#createaccount-modal-content' ).hide();
+		$( '#forgotpassword-modal-content' ).hide();
+		$( '#signin-modal-content' ).hide();
+		$( '#addcookieuploads-modal-content' ).hide();
+		
+		$( '#createaccountsuccessmessage-modal-content' ).show();
+		
+		showModal( 'sign-in' );
+	}
+
+
+	var bolHasCookieUploads = false;
+	var bolAddCookieUploadsAnswered = false;
+	var bolAddCookieUploads = false;
+	var strActiveForm = '';
+
+	function setAddCookieUploads(val) {
+
+		bolAddCookieUploads = val;
+		bolAddCookieUploadsAnswered = true;
+
+		if (val) {
+			$('#login_facebook .add_anonym_uplaods').val('1');
+			$('#login_google .add_anonym_uplaods').val('1');
+			$('#login_draugiem .add_anonym_uplaods').val('1');
+		}
+
+		if (strActiveForm == 'signin') {
+			checkSignInForm();
+			showSignIn();
+		}
+		else if (strActiveForm == 'createaccount') {
+			checkCreateAccountForm();
+			showCreateAccount();
+		}
+		else if (strActiveForm == 'facebook' || strActiveForm == 'google' || strActiveForm == 'draugiem') {
+
+			checkSocialLogin(strActiveForm);
+		}
+	}
+
+
+	var bolPrevFinished_checkCreateAccountForm = true;
+	function checkCreateAccountForm(bolCouponCheckResult) {
+        
+        var jqCaptchaResultInput = $('#' + strSignupCaptchaContainerID + ' .captcha_response');
+	    
+		if ( bolCouponCheckResult === undefined )
+		{
+			bolCouponCheckResult = null;
+		}
+
+		if (bolPrevFinished_checkCreateAccountForm)
+		{
+			bolPrevFinished_checkCreateAccountForm = false;
+			$('#sign-in_disable_form').show();
+   
+			var bolCreateBusinessAccountDataOk = true;
+			if (bolCreateBusinessAccount)
+			{
+				bolCreateBusinessAccountDataOk = false;
+
+				if ($('#createaccount_company_name').val().trim().length < 4 ) {
+
+					addError('createaccount_company_name', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu uzņēmuma nosaukumu! Tam jābūt vismaz 4 simbolus garam!');
+				}
+				else {
+
+					removeError('createaccount_company_name');
+
+					if ($('#createaccount_company_phone').val().trim().length < 4 ) {
+
+						addError('createaccount_company_phone', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu uzņēmuma telefona numuru! Tam jābūt vismaz 4 ciparus garam!');
+					}
+					else {
+
+						removeError('createaccount_company_phone');
+
+						bolCreateBusinessAccountDataOk = true;
+					}
+				}
+			}
+            
+            if ( $( "#register_coupon_code" ).css("display") !== "none" && !bolCouponCheckResult )
+            {
+                // coupon field is visible -> so it must be filled
+                if( bolCouponCheckResult === false )
+                {
+                    addError( 'register_coupon_code_input', 'createaccount_error_msg', 'Ievadītais kupona kods nav derīgs, vai ir jau izmantots!' );
+                    
+                    bolPrevFinished_checkCreateAccountForm = true;
+                    $('#sign-in_disable_form').hide();
+                    return;
+                }
+                else if( !bolCouponCheckResult )
+                {
+                    removeError( 'register_coupon_code_input' );
+                    
+                    bolPrevFinished_checkCreateAccountForm = true;
+                    verifyCouponCode( 'register_coupon_code_input', 'createaccount_error_msg', checkCreateAccountForm );
+                    return;
+                }                
+            }
+			
+			if ( bolCreateBusinessAccountDataOk )
+			{
+				if ($('#createaccount_name').val().trim().length < 2 ) {
+
+					addError('createaccount_name', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu vārdu! Tam jābūt vismaz 2 simbolus garam.');
+
+					bolPrevFinished_checkCreateAccountForm = true;
+					$('#sign-in_disable_form').hide();
+				}
+				else {
+
+					removeError('createaccount_name');
+
+					if ($('#createaccount_surname').val().trim().length < 2 ) {
+
+						addError('createaccount_surname', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu uzvārdu! Tam jābūt vismaz 2 simbolus garam.');
+
+						bolPrevFinished_checkCreateAccountForm = true;
+						$('#sign-in_disable_form').hide();
+					}
+					else {
+                        function isURL(url) {
+                           return url.match(/(http(s)?:\/\/.)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/g) !== null;
+                        }
+                        
+                        if ( isURL( $( '#createaccount_surname' ).val().trim() ) )
+                        {
+                            addError('createaccount_surname', 'createaccount_error_msg', 'Nederīgs vārds!');
+                            
+                            bolPrevFinished_checkCreateAccountForm = true;
+                            $('#sign-in_disable_form').hide();
+                            return;
+                        }
+                        else 
+                        {
+                            removeError( 'createaccount_surname' );
+                        }
+                        
+                        if ( isURL( $( '#createaccount_name' ).val().trim() ) )
+                        {
+                            addError('createaccount_name', 'createaccount_error_msg', 'Nederīgs vārds!');
+                            
+                            bolPrevFinished_checkCreateAccountForm = true;
+                            $('#sign-in_disable_form').hide();
+                            return;
+                        }
+                        else
+                        {
+                            removeError( 'createaccount_name' );
+                        }
+					    
+						removeError('createaccount_surname');
+
+						if (!validateEmail($('#createaccount_email').val())) {
+
+							addError('createaccount_email', 'createaccount_error_msg', 'Ievadiet derīgu e-pastu!');
+
+							bolPrevFinished_checkCreateAccountForm = true;
+							$('#sign-in_disable_form').hide();
+						}
+						else {
+				            new EmailValidator( $('#createaccount_email').val(), true)
+                                .setOnValidCB(function(){
+                                    $.ajax({
+                                    type: "POST",
+                                    dataType: "json",
+                                    url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+                                    data: {
+                                        'check_email' : true ,
+                                        'email' : $('#createaccount_email').val()
+                                    },
+                                    success: function(data) {
+                                        if (data['status'] != 'ok') {
+                                            var strError = "\u0160\u012b e-pasta adrese jau ir re\u0123istr\u0113ta!";
+                                            strError += "<br/><a href='' onclick='showForgotPassword(); return false'>" + 'Aizmirsi paroli' + "</a>";
+
+                                            addHTMLError('createaccount_email', 'createaccount_error_msg', strError );
+
+                                            bolPrevFinished_checkCreateAccountForm = true;
+                                            $('#sign-in_disable_form').hide();
+                                        }
+                                        else {
+
+                                            removeError('createaccount_email');
+
+                                            if ($('#createaccount_username').val().trim().length < 4 ) {
+
+                                                addError('createaccount_username', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu lietotājvārdu! Tam jābut vismaz 4 simbolus garam.');
+
+                                                bolPrevFinished_checkCreateAccountForm = true;
+                                                $('#sign-in_disable_form').hide();
+                                            }
+                                            else {
+
+                                                if (!validateUsername($('#createaccount_username').val().trim())) {
+
+                                                    addError('createaccount_username', 'createaccount_error_msg', 'Var saturēt tikai "a-z", "A-Z", "0-9" un "_.@-"');
+
+                                                    bolPrevFinished_checkCreateAccountForm = true;
+                                                    $('#sign-in_disable_form').hide();
+                                                }
+                                                else
+                                                {
+                                                    $.ajax({
+                                                        type: "POST",
+                                                        dataType: "json",
+                                                        url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+                                                        data: {
+                                                            'check_username' : true ,
+                                                            'username' : $('#createaccount_username').val()
+                                                        },
+                                                        success: function(data) {
+                                                            if (data['status'] != 'ok') {
+
+                                                                addError('createaccount_username', 'createaccount_error_msg', 'Šis lietotājvārds jau ir reģistrēts! Lūdzu ievadiet citu!');
+
+                                                                bolPrevFinished_checkCreateAccountForm = true;
+                                                                $('#sign-in_disable_form').hide();
+                                                            }
+                                                            else {
+
+                                                                removeError('createaccount_username');
+
+                                                                if ($('#createaccount_password').val().trim().length < 4 ) {
+
+                                                                    addError('createaccount_password', 'createaccount_error_msg', 'Lūdzu ievadiet derīgu paroli! Tai jābūt vismaz 4 simbolus garai.');
+
+                                                                    bolPrevFinished_checkCreateAccountForm = true;
+                                                                    $('#sign-in_disable_form').hide();
+                                                                }
+                                                                else
+                                                                {
+                                                                    removeError('createaccount_password');
+    
+                                                                    var bolCaptchaOk = true;
+                                                                    if ( bolSignupCaptchaRequired )
+                                                                    {
+                                                                        bolCaptchaOk = false;
+                                                                        
+                                                                        if ( jqCaptchaResultInput.length && jqCaptchaResultInput.val().length )
+                                                                        {
+                                                                            bolCaptchaOk = true;
+                                                                            removeError( strSignupCaptchaContainerID );
+                                                                        }
+                                                                        else
+                                                                        {
+                                                                            if ( ! jqCaptchaResultInput.length )
+                                                                            {
+                                                                                addError( strSignupCaptchaContainerID, "createaccount_error_msg", "Notikusi kļūda! Lūdzu pārbaudiet savu interneta savienujumu un mēģiniet vēlāk. Ja problēma neatrisinās, lūdzu sazinieties ar support@failiem.lv" );
+                                                                            }
+                                                                            else
+                                                                            {
+                                                                                addError( strSignupCaptchaContainerID, 'createaccount_error_msg', 'Lūdzu aizpildi Captcha!' );
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                    
+                                                                    if ( ! bolCaptchaOk )
+                                                                    {
+                                                                        bolPrevFinished_checkCreateAccountForm = true;
+                                                                        $( '#sign-in_disable_form' ).hide();
+                                                                    }
+                                                                    else
+                                                                    {
+                                                                        removeError( 'createaccount_password' );
+                                                                        removeError( strSignupCaptchaContainerID );
+        
+                                                                        removeAllErrors( 'createaccount_error_msg' );
+        
+        
+                                                                        if ( bolHasCookieUploads == true && bolAddCookieUploadsAnswered == false )
+                                                                        {
+            
+                                                                            strActiveForm = 'createaccount';
+                                                                            showAddCookieUploads();
+            
+                                                                            bolPrevFinished_checkCreateAccountForm = true;
+                                                                            $( '#sign-in_disable_form' ).hide();
+                                                                        }
+                                                                        else
+                                                                        {
+                                                                            var postData = {
+                                                                                'create_account': true,
+                                                                                'username': $( '#createaccount_username' ).val(),
+                                                                                'email': $( '#createaccount_email' ).val(),
+                                                                                'password': $( '#createaccount_password' ).val(),
+                                                                                'add_cookie_uploads': bolAddCookieUploads,
+                                                                                'first_name': $( '#createaccount_name' ).val(),
+                                                                                'surname': $( '#createaccount_surname' ).val(),
+                                                                                'create_business_account': bolCreateBusinessAccount,
+                                                                                'company_name': $( '#createaccount_company_name' ).val(),
+                                                                                'company_phone': $( '#createaccount_company_phone' ).val(),
+                                                                                'company_country': $( '#createaccount_company_country' ).val(),
+                                                                                'from_ico': $( "#register_from_ico" ).val() ,
+                                                                                'recaptcha_response': (jqCaptchaResultInput.length ? jqCaptchaResultInput.val() : '')
+                                                                            };
+
+                                                                            // add referral fields if the container is visible
+                                                                            if ( $( "#createaccount-referral-container" ).css( "display" ) !== "none" )
+                                                                            {
+                                                                                postData[ 'inviter_hash' ] = $( "#createaccount-referral-hash" ).val();
+                                                                                postData[ 'inviter_user' ] = $( "#createaccount-referral-user" ).val();
+                                                                            }
+                                                                            
+                                                                            if ( $( "#register_coupon_code" ).css( "display" ) !== "none" )
+                                                                            {
+                                                                                postData.coupon_code = $( "#register_coupon_code_input" ).val().trim();
+                                                                            }
+
+                                                                                        
+                                                                            $.ajax( {
+                                                                                type: "POST",
+                                                                                dataType: "json",
+                                                                                url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+                                                                                data: postData,
+                                                                                success: function ( data )
+                                                                                {
+                                                                                    if ( data[ 'status' ] == 'ok' )
+                                                                                    {
+                        																                        																
+                                                                                        if ( $( '.dont_redirect_after_login' ).val() == '' )
+                                                                                        {
+                            
+                                                                                            if ( $( '.login_return_url' ).val() != '' )
+                                                                                            {
+                                
+                                                                                                if (
+                                                                                                    ( "/" + $( '.login_return_url' ).val() ).search( window.location.pathname ) != -1 &&
+                                                                                                    $( '.login_return_url' ).val() != 'sync-share?create_cloud_files_user' &&
+                                                                                                    $( '.login_return_url' ).val() != 'library-info?after_login' &&
+                                                                                                    $( '.login_return_url' ).val() != 'video?after-signup' &&
+                                                                                                    ( "/" + $( '.login_return_url' ).val() ).search( 'lifetime-storage' ) == -1 &&
+                                                                                                    ( "/" + $( '.login_return_url' ).val() ).search( 'save-youtube-video' ) == -1
+                                                                                                )
+                                                                                                {
+                                                                                                    if ( location.hash == '#sign_up' )
+                                                                                                    {
+                                                                                                        location.hash = '';
+                                                                                                    }
+                                    
+                                                                                                    if ( $( '.login_return_url' ).val() == 'storage-plans#subscribe' )
+                                                                                                    {
+                                                                                                        location.hash = 'subscribe';
+                                                                                                    }
+                                    
+                                                                                                    location.reload();
+                                                                                                }
+                                                                                                else
+                                                                                                {
+                                                                                                    window.location = "https://fv2-5.failiem.lv/" + $( '.login_return_url' ).val();
+                                                                                                }
+                                
+                                                                                            }
+                                                                                            else
+                                                                                            {
+                                
+                                                                                                window.location = "/account";
+                                                                                            }
+                                                                                        }
+                                                                                        else
+                                                                                        {
+                            
+                                                                                            showCreateAccountSuccessMessage();
+                            
+                                                                                            bolPrevFinished_checkCreateAccountForm = true;
+                                                                                            $( '#sign-in_disable_form' ).hide();
+                                                                                        }
+                                                                                    }
+                                                                                    else
+                                                                                    {
+                        
+                                                                                        addError( 'createaccount_error_msg', 'createaccount_error_msg', 'Notika kļūda, sazinieties ar Failiem.lv komandu!' );
+                        
+                                                                                        bolPrevFinished_checkCreateAccountForm = true;
+                                                                                        $( '#sign-in_disable_form' ).hide();
+                                                                                    }
+                                                                                },
+                                                                                error: function ( data )
+                                                                                {
+                    
+                                                                                    addError( 'createaccount_error_msg', 'createaccount_error_msg', 'Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!' );
+                    
+                                                                                    bolPrevFinished_checkCreateAccountForm = true;
+                                                                                    $( '#sign-in_disable_form' ).hide();
+                                                                                }
+                                                                            } );
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        } ,
+                                                        error: function(data) {
+
+                                                            addError('createaccount_error_msg', 'createaccount_error_msg', 'Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!');
+
+                                                            bolPrevFinished_checkCreateAccountForm = true;
+                                                            $('#sign-in_disable_form').hide();
+                                                        }
+                                                    });
+                                                }
+                                            }
+                                        }
+                                    } ,
+                                    error: function(data) {
+
+                                        addError('createaccount_error_msg', 'createaccount_error_msg', 'Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!');
+
+                                        bolPrevFinished_checkCreateAccountForm = true;
+                                        $('#sign-in_disable_form').hide();
+                                    }
+                                })
+                                }).setOnInvalidCB(function() {
+                                    bolPrevFinished_checkCreateAccountForm = true;
+                                    $('#sign-in_disable_form').hide();
+                                    addError('createaccount_email', 'createaccount_error_msg', 'Ievadiet derīgu e-pastu!');
+                                }).setModalID("sign-in").run();
+						}
+					}
+				}
+			}
+			else
+			{
+				bolPrevFinished_checkCreateAccountForm = true;
+				$('#sign-in_disable_form').hide();
+			}
+		}
+	}
+
+	function getSigninReturnRedirectUrl()
+    {
+        if ($('.login_return_url').val() != '') {
+
+            if ($('.dont_redirect_after_login').val() == '') {
+                if (
+                    ("/"+$('.login_return_url').val()).search(window.location.pathname) != -1 &&
+                    $('.login_return_url').val() != 'sync-share?create_cloud_files_user' && 
+                    $('.login_return_url').val() == 'storage-plans#subscribe' 
+                )
+                {
+                    return '#subscribe';
+                }
+                else {
+                    return $('.login_return_url').val();
+                }
+            }
+        }
+
+        
+	    return false;
+    }
+     
+    function verifyCouponCode( strCouponInputID, strErrorID, fnCallback, bolResult )
+    {
+    	if ( bolResult === undefined )
+		{
+    		bolResult = null;
+		}
+
+        var strCouponInputSelector = "#" + strCouponInputID;
+        
+        var onError = function ()
+        {
+            addError( strCouponInputID, strErrorID, 'Nederīgs kupona kods!' );
+            
+            bolPrevFinished_checkCreateAccountForm = true;
+            $( '#sign-in_disable_form' ).hide();
+        };
+        
+        if ( bolResult === false )
+        {
+            onError();
+            return false
+        }
+        else if ( bolResult === true )
+        {
+            return true;
+        }
+        
+        if ( $( strCouponInputSelector ).css( "display" ) !== "none" )
+        {
+            // coupon field is visible -> so it must be filled
+            if ( $( strCouponInputSelector ).val().trim().length !== 8 )
+            {
+                onError();
+                return false
+            }
+            else
+            {
+                if ( !bolResult )
+                {
+                    removeError( strCouponInputID );
+                    
+                    $.ajax( {
+                        type: "POST",
+                        dataType: "json",
+                        url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+                        global: false,
+                        data: {
+                            'check_coupon': true,
+                            'coupon_code': $( strCouponInputSelector ).val().trim()
+                        },
+                        success: function ( data )
+                        {
+                            fnCallback( typeof data[ 'status' ] !== "undefined" && data[ 'status' ] === 'ok' );
+                        },
+                        error: function ( )
+                        {
+                            fnCallback( false );
+                        }
+                    } );
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+        }
+        else
+        {
+            return true;
+        }
+    }
+
+	var bolPrevFinished_checkSignInForm = true;
+
+    function trySignIn( strTwoFactorAuthCode )
+    {
+        if ( typeof strTwoFactorAuthCode === "undefined" )
+        {
+            strTwoFactorAuthCode = "";
+        }
+
+        var jqCaptchaResultInput = $( '#' + strSinginCaptchaContainerID + ' .captcha_response' );
+
+        removeAllErrors( 'signin_error_msg' );
+       
+        var strReturnUrl = getSigninReturnRedirectUrl();
+
+        var objPostData = {
+            'signin': true,
+            'username': $( '#l_user' ).val(),
+            'password': $( '#l_pass' ).val(),
+            'remember_me': $( '#remember_me' ).prop( 'checked' ),
+            'from_ico': $( '#register_from_ico' ).val(),
+            'add_cookie_uploads': bolAddCookieUploads,
+            'recaptcha_response': ( jqCaptchaResultInput.length ? jqCaptchaResultInput.val() : '' )
+        };
+
+        if ( strTwoFactorAuthCode )
+        {
+            objPostData[ 'two_factor_auth_code' ] = strTwoFactorAuthCode;
+        }
+
+        if ( strReturnUrl )
+        {
+            objPostData[ 'override_return_url' ] = strReturnUrl;
+        }
+
+        if ( $( "#l_coupon_code" ).css( "display" ) !== "none" )
+        {
+            objPostData.coupon_code = $( "#l_coupon_code" ).val().trim();
+        }
+
+        
+        $.ajax( {
+            type: "POST",
+            dataType: "json",
+            url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+            crossDomain: true,
+            data: objPostData,
+            success: function ( data )
+            {
+                var strAdditionalMessage = "";
+                
+                if ( typeof data[ 'login_attempts_left' ] !== 'undefined' )
+                {
+                    var strPartOne = +data[ 'login_attempts_left' ] === 1 ? ' Jums atlicis ' : ' Jums atlikuši ';
+                    var strPartTwo = +data[ 'login_attempts_left' ] === 1 ? ' pieslēgšanās mēģinājums līdz jūsu konts tiks bloķēts.' : ' pieslēgšanās mēģinājumi līdz jūsu konts tiks bloķēts.';
+
+                    strAdditionalMessage = strPartOne + data[ 'login_attempts_left' ] + strPartTwo;
+                }
+                
+                if ( ( data[ 'status' ] === 'ok' || data[ 'status' ] === 'missing_account_data' ) && typeof data[ 'redirect_to' ] !== 'undefined' )
+                {
+                    
+                    if ( data[ 'redirect_to' ].substring( 0, 17 ) == '/lifetime-storage' )
+                    {
+                        data[ 'redirect_to' ] += '?after_login';
+                    }
+
+                    if ( data[ 'redirect_to' ].substring( 0, 6 ) == '/token' )
+                    {
+                        data[ 'redirect_to' ] = '/token';
+                    }
+
+                    window.location = data[ 'redirect_to' ];
+                }
+                else if ( data[ 'status' ] === 'invalid_auth_code' )
+                {
+                    $( '#twofactor_error_msg' ).text( 'Ievadītais kods nav derīgs! Lūdzu mēģiniet vēlreiz!' + strAdditionalMessage ).show();
+                    bolPrevFinished_checkSignInForm = true;
+                    $( '#sign-in_disable_form' ).hide();
+                }
+                else
+                {
+                    var $errorCont;
+                    if( strTwoFactorAuthCode )
+                    {
+                        $errorCont = $( '#twofactor_error_msg' );
+                    }
+                    else
+                    {
+                        $errorCont = $( '#signin_error_msg' );
+                    }
+                    
+                    if ( typeof data[ "message" ] === "undefined" )
+                    {
+                       $errorCont.text( 'Nepareizs lietotājvārds vai parole! Pieeju var restaurēt uz jūsu epasta adresi.' + strAdditionalMessage );
+                       console.log( 'SIGNIN ERROR CODE : 1' );
+                    }
+                    else
+                    {
+                        $errorCont.text( data[ "message" ] + strAdditionalMessage );
+                    }
+                    $errorCont.show();
+
+                    bolPrevFinished_checkSignInForm = true;
+                    $( '#sign-in_disable_form' ).hide();
+                }
+            },
+            error: function ( data )
+            {
+
+                $( '#signin_error_msg' ).text( 'Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!' );
+                $( '#signin_error_msg' ).show();
+
+                bolPrevFinished_checkSignInForm = true;
+                $( '#sign-in_disable_form' ).hide();
+            }
+        } );
+    }
+
+    function show2FAPrompt()
+    {
+        $( '#createaccount-modal-content' ).hide();
+        $( '#forgotpassword-modal-content' ).hide();
+        $( '#addcookieuploads-modal-content' ).hide();
+        $( '#createaccountsuccessmessage-modal-content' ).hide();
+        $( '#signin-modal-content' ).hide();
+
+        $( '#twofactor_authcode-modal-content' ).show();
+    }
+    
+	function checkSignInForm(bolCouponCheckResult) {
+
+		if ( bolCouponCheckResult === undefined )
+		{
+			bolCouponCheckResult = null;
+		}
+        
+        var jqCaptchaResultInput = $('#' + strSinginCaptchaContainerID + ' .captcha_response');
+        
+		if (bolPrevFinished_checkSignInForm) {
+
+			bolPrevFinished_checkSignInForm = false;
+            $('#sign-in_disable_form').show();
+            
+            if ( $( "#l_coupon_code" ).css("display") !== "none" )
+            {
+                if ( bolCouponCheckResult )
+                {
+                    $( "#signin_error_msg" ).hide();
+                }
+                else if ( bolCouponCheckResult === null )
+                {
+                    bolPrevFinished_checkSignInForm = true;
+                    return verifyCouponCode( "l_coupon_code", "signin_error_msg", checkSignInForm, bolCouponCheckResult );
+                }
+                else
+                {
+                    $( "#signin_error_msg" )
+                        .text( "Ievadītais kupona kods nav derīgs, vai ir jau izmantots!" )
+                        .show();
+                    bolPrevFinished_checkSignInForm = true;
+                    $( '#sign-in_disable_form' ).hide();
+                    return false;
+                }
+            }
+                
+			bolError = false;
+
+			if ($('#l_user').val() == '' ) {
+
+				$('#l_user').addClass( 'has_error' );
+				bolError = true;
+			}
+			else {
+				$('#l_user').removeClass( 'has_error' );
+			}
+
+			if ($('#l_pass').val() == '' ) {
+				$('#l_pass').addClass( 'has_error' );
+				bolError = true;
+			}
+			else {
+				$('#l_pass').removeClass( 'has_error' );
+			}
+            
+            
+            if ( bolSigninCaptchaRequired )
+            {
+                if ( jqCaptchaResultInput.length === 0 )
+                {
+                    bolError = true;
+    
+                    addError(strSinginCaptchaContainerID, "signin_error_msg", "Notikusi kļūda! Lūdzu pārbaudiet savu interneta savienujumu un mēģiniet vēlāk. Ja problēma neatrisinās, lūdzu sazinieties ar support@failiem.lv");
+                }
+                else if ( jqCaptchaResultInput.val().length === 0 )
+                {
+                    bolError = true;
+    
+                    addError(strSinginCaptchaContainerID, "signin_error_msg", "Lūdzu aizpildiet Captcha lauku!");
+                }
+                else
+                {
+                    removeError( strSinginCaptchaContainerID );
+                }
+            }
+
+			if (!bolError) {
+
+				$.ajax({
+					type: "POST",
+					dataType: "json",
+					url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+                    crossDomain: true,
+                    data: {
+						'check_signin' : true ,
+						'username' : $('#l_user').val() ,
+						'password' : $('#l_pass').val()
+					},
+					success: function(data) {
+                        if ( data[ 'status' ] === 'ok' )
+                        {
+                            if ( bolHasCookieUploads == true && bolAddCookieUploadsAnswered == false && data[ 'show_add_cookie_uploads' ] == true )
+                            {
+                                strActiveForm = 'signin';
+                                showAddCookieUploads();
+
+                                bolPrevFinished_checkSignInForm = true;
+                                $( '#sign-in_disable_form' ).hide();
+                            }
+                            else
+                            {
+                                trySignIn();
+                            }
+                        }
+                        else if ( data[ 'status' ] === 'requires_auth_code' )
+                        {
+                            $( '#sign-in_disable_form' ).hide();
+                            bolPrevFinished_checkSignInForm = true;
+                            
+                            show2FAPrompt();
+                        }
+                        else
+                        {
+                            var strMessage = 'Nepareizs lietotājvārds vai parole! Pieeju var restaurēt uz jūsu epasta adresi.';
+
+                            if ( typeof data[ 'message' ] !== "undefined" )
+                            {
+                                strMessage = data[ 'message' ];
+                            } 
+                            else if ( typeof data[ 'login_attempts_left' ] !== 'undefined' ) 
+                            {
+                                var strPartOne = +data['login_attempts_left'] === 1 ? ' Jums atlicis ' : ' Jums atlikuši ';
+                                var strPartTwo = +data['login_attempts_left'] === 1 ? ' pieslēgšanās mēģinājums līdz jūsu konts tiks bloķēts.' : ' pieslēgšanās mēģinājumi līdz jūsu konts tiks bloķēts.';
+                                
+                                strMessage += strPartOne + data[ 'login_attempts_left' ]  + strPartTwo;
+                            }
+                            else
+                            {
+                                console.log( 'SIGNIN ERROR CODE : 2' );
+                            }
+
+                            $( '#signin_error_msg' ).text( strMessage );
+							$('#signin_error_msg').show();
+
+							bolPrevFinished_checkSignInForm = true;
+							$('#sign-in_disable_form').hide();
+						}
+					} ,
+					error: function(data) {
+
+						$('#signin_error_msg').text('Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv!');
+						$('#signin_error_msg').show();
+
+						bolPrevFinished_checkSignInForm = true;
+						$('#sign-in_disable_form').hide();
+					}
+				});
+			}
+			else {
+
+				bolPrevFinished_checkSignInForm = true;
+				$('#sign-in_disable_form').hide();
+			}
+		}
+	}
+
+
+	function checkForgotPasswordForm() {
+
+		if (!validateEmail($('#forgotpassword_email').val())) {
+
+			addError('forgotpassword_email', 'forgotpassword_error_msg', 'Ievadiet derīgu e-pastu!');
+		}
+		else {
+
+			removeError('forgotpassword_email');
+
+			$.ajax({
+				type: "POST",
+				dataType: "json",
+				url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+				data: {
+					'recover_password' : true ,
+					'email' : $('#forgotpassword_email').val()
+				},
+				success: function(data) {
+					if (data['status'] == 'ok') {
+
+						removeAllErrors('forgotpassword_error_msg');
+
+						$('#forgotpassword_error_msg').addClass('ok_msg_active');
+						$('#forgotpassword_error_msg').text('Paroles atjaunošanas saite ir nosūtīta uz Jūsu e-pastu.');
+						$('#forgotpassword_error_msg').show();
+					}
+					else {
+
+						addError('forgotpassword_email', 'forgotpassword_error_msg', 'Šāds e-pasts nav reģistrēts.');
+					}
+				}
+			});
+		}
+	}
+
+	function checkSocialLogin(strType) {
+
+		if (bolHasCookieUploads == true && bolAddCookieUploadsAnswered == false) {
+
+			strActiveForm = strType;
+			showAddCookieUploads();
+		}
+		else {
+
+			if ($('.dont_redirect_after_login').val() == 'true')
+			{
+				$('#sendfiles').submit();
+				$('.add_anonym_uplaods').val('true');
+			}
+
+			if (strType == 'facebook') {
+
+				$('#login_facebook').submit();
+			}
+			else if (strType == 'google') {
+
+				$('#login_google').submit();
+			}
+			else if (strType == 'draugiem') {
+
+				$('#login_draugiem').submit();
+			}
+			else if (strType == 'microsoft') {
+
+				$('#login_microsoft').submit();
+			}
+
+		}
+	}
+
+
+	function validateEmail(email) {
+		var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+		var result = re.test(email);
+		return result;
+	}
+
+	function validateUsername(username) {
+
+		var re = /^[a-zA-Z0-9_\.@\-]+$/;
+		var result = re.test(username);
+		return result;
+	}
+    
+    function addHTMLError(strDomId, strErrorMsgId, strErrorMsgText) {
+        $('#' + strDomId).addClass( 'has_error' );
+        $('#' + strErrorMsgId).html(strErrorMsgText);
+        $('#' + strErrorMsgId).show();
+    }
+
+	function addError(strDomId, strErrorMsgId, strErrorMsgText) {
+		$('#' + strDomId).addClass( 'has_error' );
+		$('#' + strErrorMsgId).text(strErrorMsgText);
+		$('#' + strErrorMsgId).show();
+	}
+
+	function removeError(strInputId) {
+		$('#' + strInputId).removeClass( 'has_error' );
+	}
+
+	function removeAllErrors(strErrorMsgId) {
+		$('#' + strErrorMsgId).text('');
+		$('#' + strErrorMsgId).hide();
+	}
+
+	var isUsernameChanged = false;
+	function usernameChanged()
+	{
+		isUsernameChanged = true;
+	}
+
+	function createUsername(strEmail)
+	{
+		if( !isUsernameChanged && strEmail != '' && validateEmail(strEmail))
+		{
+			var arrEmail = strEmail.split("@");
+
+			var strUsername = arrEmail[0];
+			while (strUsername.length < 4)
+			{
+				strUsername += '1';
+			}
+
+
+			$.ajax(
+			{
+				type: "POST",
+				dataType: "json",
+				url: "./ajax/sign_in.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9",
+				data:
+				{
+					'get_username' : true ,
+					'username' : strUsername
+				},
+				success: function(data)
+				{
+					if (data['status'] == 'ok' && data['username'])
+					{
+						$('#createaccount_username').val(data['username']);
+					}
+				}
+			});
+		}
+	}
+
+	var bolCreateBusinessAccount = false;
+	function toggleCreateBusinessAccount()
+	{
+		if (bolCreateBusinessAccount)
+		{
+			bolCreateBusinessAccount = false;
+			$('#create_business_account_container').hide();
+		}
+		else
+		{
+			bolCreateBusinessAccount = true;
+			$('#create_business_account_container').show();
+		}
+	}
+
+
+    
+    </script>
+<script>
+
+    $('#mega-menu .other-apps LI').on('click', function (){
+        if ( $('A:first-child', this).attr('href') != null && $('A:first-child', this).attr('href').indexOf('javascript:') == -1 )
+        {
+            window.location = $('A:first-child', this).attr('href');
+        }
+    });
+    
+    /*** Dropdowns ***/
+    $('HEADER .dropdown-toggle').on('click', function (){
+        var jqMenu = $(this).closest('.dropdown-menu-container');
+        var bolShow = ! $('.dropdown-menu', jqMenu).is(':visible');
+        
+        
+        // hide all other popups if dropdon not inside main meu popup
+        if ( $(this).closest('#mega-menu').length == 0 )
+            hidePopups();
+        
+        if ( bolShow )
+        {
+            jqMenu.addClass('active');
+        }
+        else
+        {
+            jqMenu.removeClass('active');
+        }
+    });
+    /***/
+    
+
+    /*** Dropdowns ***/
+    $('HEADER .dropdown-menu-container').on('hover', function (){
+        
+        // hide all other popups if dropdon not inside main meu popup
+        if ( $(this).closest('#mega-menu').length == 0 )
+            hidePopups();
+        
+        $(this).addClass('active');
+    });
+    $('HEADER .dropdown-menu-container').on('mouseleave', function (){
+        $(this).removeClass('active');
+    });
+    /***/
+    
+    // Show nav bar on mouse enter
+    $('#navbar-toggler').on('mouseenter', function (){
+
+        // If clicked on ovelay, event fired immediately
+        var intTimeFromPreviousMegamenuHide = null;
+        if ( intMegamenuHideTime !== null )
+            intTimeFromPreviousMegamenuHide = (new Date()).getTime() - intMegamenuHideTime;
+
+        if ( ! $('#mega-menu').hasClass('show') && ( intTimeFromPreviousMegamenuHide === null || intTimeFromPreviousMegamenuHide > 300) )
+        {
+            $('#mega-menu').addClass('show');
+        }
+    });
+
+    // Hide navbar on mouse leave
+    $('#mega-menu .container').on('mouseleave', function (){
+        $('#mega-menu').removeClass('show');
+    });
+
+    $('#navbar-toggler').on('click', function (){
+        var bolShow = ! $('#mega-menu').hasClass('show');
+        hidePopups();
+        if ( bolShow )
+        {
+            $('#mega-menu').addClass('show');
+        }
+        else
+        {
+            $('#mega-menu').removeClass('show');
+        }
+    });
+
+</script>
+<script type="text/javascript" src="js/prebid-ads.js"></script>
+<script type="text/javascript">
+        if( window.canRunAds === undefined )
+        {
+            fError( "J\u016bsu p\u0101rl\u016bkprogramm\u0101 ir uzst\u0101d\u012bts rekl\u0101mu blo\u0137\u0113\u0161anas spraudnis. Past\u0101v iesp\u0113ja, ka lapa tiek nekorekti uzr\u0101d\u012bta. L\u016bdzu, atsl\u0113dziet spraudni un atjaunojiet lapu!" );
+            document.cookie="adblock_warning_shown; max-age=86400";
+        }
+    </script>
+<div id="content">
+<link rel="stylesheet" type="text/css" media="all" href="/css/list.v2/list_private_upload_msg.css?v=102" />
+<div class="list_private_upload_msg">
+<div class="list_private_upload_msg__main">
+<div class="list_private_upload_msg__main__wrapper">
+<div class="list_private_upload_msg__main__icon">
+<img src="/images/list/deleted/private.svg" />
+<div class="list_private_upload_msg__main__text__header">
+Šai mapei ir uzstādīta "Privāta piekļuve" </div>
+</div>
+<div class="list_private_upload_msg__main__text">
+<div class="list_private_upload_msg__main__text__header">
+Šai mapei ir uzstādīta "Privāta piekļuve" </div>
+<div class="list_private_upload_msg__main__text__paragraph">
+Saturs ir pieejams īpašniekam un identificētiem lietotājiem, ar kuriem tas koplietots uz epastu ar "Dalīties" pogu. </div>
+</div>
+</div>
+</div>
+<div class="list_private_upload_msg__info">
+<div class="list_private_upload_msg__info__block">
+<h1>Piekļūsti saturam</h1>
+<div class="list_private_upload_msg__info__text">
+Lai piekļūtu saturam, piesakieties ar savu e-pasta adresi, kurai ir iedota pieeja. </div>
+<div class="list_private_upload_msg__info__button_wrapper">
+<a href="javascript:void(0)" onclick="showSignIn()" class="standard_button">
+Identificēties </a>
+</div>
+</div>
+<div style="font-size: 16px; line-height: 26px;">
+<div>
+Tu šobrīd neesi pieslēdzies ar lietotāja kontu. </div>
+<div>
+Tu mēģini atvērt mapi ar saiti: <b>https://fv2-5.failiem.lv/u/</b>
+</div>
+</br>
+<div>
+Šī brīža laiks: <b>2022-08-30 07:42:08</b>
+</div>
+</div>
+</div>
+<div class="list_private_upload_msg__loading">
+<i class="fal fa-spinner fa-spin"></i>
+</div>
+</div>
+<script type="text/javascript">
+
+	function requestPrivateUploadAccess()
+	{
+		$( '#list_private_upload_msg__loading' ).show();
+
+		$.ajax( {
+            type: "POST",
+            dataType: "json",
+            url: "/ajax/upload_info.php?PHPSESSID=9b932b161415c5541b44f81760891e017f12d2e9" ,
+            data: {
+				'request_access_to_private_upload' : true ,
+				'upload_hash' : 'private'
+            } ,
+            success: function ( response )
+            {
+                if ( response[ 'status' ] == 'ok' )
+                {
+                	$( '#list_private_upload_msg__loading' ).hide();
+                	fSuccess( "Pieprasījums ir nosūtīts failu īpašniekam. Kad īpašnieks Jums piešķir pieejas tiesības, Jūs saņemsiet e-pastu.", "", "OK" );
+                }
+                else 
+                {
+                	$( '#list_private_upload_msg__loading' ).hide();
+                    fError( "Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv", "", "OK" );
+                }
+            } ,
+            error: function()
+            {
+            	$( '#list_private_upload_msg__loading' ).hide();
+                fError( "Notika kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar support@failiem.lv", "", "OK" );
+            }
+        } );
+	}
+	
+	
+</script>
+</div>
+<link rel="stylesheet" type="text/css" media="all" href="/css/footer.css?v=13" />
+<div id="footer_container">
+<div id="footer" class="clearfix">
+<div class="footer_block footer_block_left">
+<div class="float_left">
+<p>2008 - 2022 <img src="images/european-flag.svg" width="24" height="24" alt="Files.fm EU Cloud storage">
+EU Files.fm cloud storage </p>
+<p>Failiem.lv datu glabāšanas platforma, kas palīdz lietotājiem un uzņēmumiem glabāt, pārsūtīt, publicēt vai pārdot saturu</p>
+
+</div>
+</div>
+<div class="footer_block_right">
+<div class="footer_block">
+<div class="footer_title">
+Darba sākšana <div class="footer_header_div">
+<div class="footer_header_div_line"></div>
+</div>
+</div>
+<ul>
+<li>
+<a href="" onclick="showCreateAccount(); return false;">Izveidot kontu / Ienākt</a>
+</li>
+<li>
+<a href="storage-plans">Cenas</a>
+</li>
+<li>
+<a href="/business">Biznesam</a>
+</li>
+<li>
+<a href="/datu-drosibai" target="_blank">Datu drošībai</a>
+</li>
+<li>
+<a href="terms">Noteikumi</a>
+</li>
+<li>
+<a href="questions-about-online-file-storage">Jautājumi</a>
+</li>
+<li>
+<a href="/token">Files.fm Token</a>
+</li>
+</ul>
+</div>
+<div class="footer_block">
+<div class="footer_title">
+Risinājumi <div class="footer_header_div">
+<div class="footer_header_div_line"></div>
+</div>
+</div>
+<ul>
+<li>
+<a href="/sync-share">Failu sinhronizēšana</a>
+</li>
+<li>
+<a href="/backup">Rezerves kopiju izveide</a>
+</li>
+<li>
+<a href="/ielades-forma" target="_blank">Failu ielādes forma</a>
+</li>
+<li>
+<a href="https://failiem.lv/servers" target="_blank">Virtuālo serveru noma</a>
+</li>
+<li>
+<a href="/sell-content">Satura pārdošanas e-komercija</a>
+</li>
+<li>
+<a href="/public-profiles" target="_blank">Satura publicēšanas katalogs</a>
+</li>
+<li>
+<a href="/foto-druka" target="_blank">Foto izdrukas</a> | <a href="/foto-drukas-produkti" target="_blank">Drukas produkti</a>
+</li>
+</ul>
+</div>
+<div class="footer_block">
+<div class="footer_title">
+Apps <div class="footer_header_div">
+<div class="footer_header_div_line"></div>
+</div>
+</div>
+<ul>
+<li>
+Sync:
+<a href="/sync-share#setup">Windows | MacOS</a>
+</li>
+<li>
+Backup: <a href="/backup#setup">Windows | MacOS</a>
+</li>
+<li>
+Mobile:
+<a href="https://play.google.com/store/apps/details?id=lv.failiem" target="_blank">Android</a> |
+<a href="https://apps.apple.com/app/id1359583808" target="_blank">IOS Soon..</a>
+</li>
+<li>
+<a href="?convert-to-pdf">Convert to PDF</a> | <a href="?convert-to-mp4">Convert to MP4</a>
+</li>
+<li>
+<a href="/webdav-info">Webdav tīkla disks</a>
+<li>
+<a href="https://files.fm/library" target="_blank">Bibliotēka</a>
+</li>
+ <li>
+<a href="https://video.failiem.lv/" target="_blank">Video konferences</a>
+</li>
+</ul>
+</div>
+<div class="footer_block">
+<div class="footer_title">
+Atbalsts </div>
+<ul>
+<li>
+<a href="https://blog.files.fm/instrukciju-saraksts-lv/" target="_blank">
+Palīdzības centrs</a>
+</li>
+<li>
+<a href="https://discord.gg/BCTJyNZABJ" target="_blank">Discord chat</a>
+</li>
+<li>
+<a href="./contacts">Sazināties</a>
+</li>
+<li>
+<a href="about">Par Failiem.lv</a>
+</li>
+<li>
+<a href="./api.php">API Izstrādātājiem</a>
+</li>
+<li>
+<a href="/u/demo" target="_blank">Failu saites piemērs</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div id="info_tooltip_global"></div>
+<script>
+    function CloseSuggestion(id) {
+        
+        if (id == 'suggest_lang') {
+            $.get("includes/suggest_language.php", {sLang: 1});
+        }
+        else if (id == 'suggest_register'){
+            $.get("includes/suggest_language.php", {sReg: 1});
+        }
+        
+        document.getElementById(id).style.display='none';
+    }
+</script>
+<script>
+        
+        $(window).bind("load", function() {
+            $( "#register_from_ico" ).val( 0 );
+            if	(window.location.hash == '#sign_up') {
+                
+                showCreateAccount();
+            }
+            else if	(window.location.hash == '#log_in') {
+                
+                showSignIn();
+            }
+            else if	(window.location.hash == '#forgot_password') {
+                
+                showForgotPassword();
+            }
+        });
+    
+    </script>
+<div id="footer_bottom_floating_line" class="footer_bottom_floating_line__listphp  cookies_msg_active ">
+</div>
+<script src="/js/inputs.js?v=1646219091"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"742adba62fc43342","token":"92d2d090fdca44aca63eff56c46d3726","version":"2022.8.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
