@@ -70,7 +70,7 @@ function Modal() {
                 <PlusIcon className="h-7 w-7"/>
               </button>
               <button className="modalButton">
-                <HandThumbUpIcon className="h-7 w-7 ml-2 -mt-5"/>
+                <HandThumbUpIcon className="h-7 w-7 ml-2px -mt-5px"/>
               </button>
             </div>
             <button className="modalButton" onClick={()=> setMuted(!muted)}>
