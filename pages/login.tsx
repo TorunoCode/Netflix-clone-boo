@@ -1,8 +1,10 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { useState } from 'react'
-import { useForm, SubmitHandler } from 'react-hook-form'
+import { SubmitHandler, useForm } from 'react-hook-form'
 import useAuth from '../hooks/useAuth'
+
+
 interface Inputs {
   email: string
   password: string
@@ -10,8 +12,7 @@ interface Inputs {
 
 function Login() {
   const [login, setLogin] = useState(false)
-  const { signIn, signUp } = useAuth()
-
+  const {signIn,signUp} = useAuth()
   const {
     register,
     handleSubmit,
@@ -27,7 +28,7 @@ function Login() {
       await signUp(data.email, data.password)
     }
   }
-  return (
+    return (
     <div className="relative flex h-screen w-screen flex-col bg-black md:items-center
     md: justify-center md:bg-transparent">
          <Head>
@@ -56,11 +57,9 @@ function Login() {
           <label className="inline-block w-full">
             <input
               type="email"
+              className="input"
               placeholder="Email"
-              className={`input ${
-                errors.email && 'border-b-2 border-orange-500'
-              }`}
-              {...register('email', { required: true })}
+              {...register('email',{required:true})}
             />
             {errors.email && (
               <p className="p-1 text-[13px] font-light  text-orange-500">
@@ -71,13 +70,11 @@ function Login() {
           <label className="inline-block w-full">
             <input
               type="password"
-              {...register('password', { required: true })}
+              className="input"
               placeholder="Password"
-              className={`input ${
-                errors.password && 'border-b-2 border-orange-500'
-              }`}
+              {...register('password',{required:true})}
             />
-            {errors.password && (
+             {errors.password && (
               <p className="p-1 text-[13px] font-light  text-orange-500">
                 Your password must contain between 4 and 60 characters.
               </p>
@@ -86,7 +83,7 @@ function Login() {
         </div>
         <button
           className="w-full rounded bg-[#E50914] py-3 font-semibold"
-          onClick={() => setLogin(true)}
+          onClick={()=> setLogin(true)}
           type="submit"
         >
           Sign In
@@ -95,7 +92,7 @@ function Login() {
           New to Netflix?{' '}
           <button
             className="cursor-pointer text-white hover:underline"
-            onClick={() => setLogin(false)}
+            onClick={()=> setLogin(false)}
             type="submit"
           >
             Sign up now
