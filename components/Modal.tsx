@@ -1,6 +1,6 @@
 import MuiModal from "@mui/material/Modal"
 import {useRecoilState, useRecoilValue} from "recoil"
-import { PlusIcon, XMarkIcon, HandThumbUpIcon} from "@heroicons/react/24/outline"
+import { PlusIcon, XMarkIcon, HandThumbUpIcon, CheckIcon} from "@heroicons/react/24/outline"
 import {modalState, movieState} from "../atoms/modalAtom"
 import { useEffect, useState } from "react"
 import {Element, Genre} from '../typings'
